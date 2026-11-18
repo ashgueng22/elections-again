@@ -1,0 +1,83 @@
+---
+title: "Southern States US Senate Results by County"
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+This interactive map displays county-level results for the most recent US Senate general election across the Southern states. Hover over or click any county to view the candidate, winning party, vote counts, and percentage.
+
+```{r}
+#| label: southern-counties-senate-map
+
+library(tidyverse)
+library(sf)
+library(maps)
+library(leaflet)
+
+# Load county Senate results (no API key required)
+county_winners <- readRDS("data/southern_senate_county_results.rds") |>
+  mutate(fips = as.integer(county_fips))
+
+# Load standard FIPS-to-polygon lookup
+data(county.fips, package = "maps")
+
+# Build county boundaries joined with election data
+counties_sf <- st_as_sf(maps::map("county", plot = FALSE, fill = TRUE)) |>
+  st_transform(4326) |>
+  mutate(base_id = str_remove(ID, ":.*$")) |>
+  inner_join(county.fips, by = c("base_id" = "polyname")) |>
+  inner_join(county_winners, by = "fips")
+
+# Get state boundary outlines for context
+states_sf <- st_as_sf(maps::map("state", plot = FALSE, fill = TRUE)) |>
+  st_transform(4326) |>
+  filter(ID %in% tolower(unique(county_winners$state)))
+
+# Color palette for winning party
+party_pal <- colorFactor(
+  palette = c("Republican" = "#E63946", "Democrat" = "#1D3557", "Other" = "#A8DADC"),
+  domain = counties_sf$winning_party
+)
+
+# Render interactive leaflet map
+leaflet() |>
+  addProviderTiles(providers$CartoDB.Positron) |>
+  addPolygons(
+    data = counties_sf,
+    fillColor = ~party_pal(winning_party),
+    weight = 0.5,
+    opacity = 1,
+    color = "#888888",
+    fillOpacity = 0.75,
+    label = ~paste0(
+      county_name, " County, ", state, " (", year, "): ", 
+      winning_candidate, " (", winning_party, ", ", winning_pct, "%)"
+    ),
+    popup = ~paste0(
+      "<strong>", county_name, " County, ", state, "</strong><br/>",
+      "Election Year: ", year, "<br/>",
+      "Winner: ", winning_candidate, " (", winning_party, ")<br/>",
+      "Winning Votes: ", scales::comma(winning_votes), " / ", scales::comma(total_votes), 
+      " (", winning_pct, "%)"
+    ),
+    highlightOptions = highlightOptions(
+      weight = 2, 
+      color = "#222222", 
+      bringToFront = TRUE
+    )
+  ) |>
+  addPolygons(
+    data = states_sf,
+    fill = FALSE,
+    weight = 1.8,
+    color = "#333333"
+  ) |>
+  addLegend(
+    pal = party_pal,
+    values = counties_sf$winning_party,
+    title = "Winning Party",
+    position = "bottomright"
+  )
+```

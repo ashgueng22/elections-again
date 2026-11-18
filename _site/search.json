@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Southern States US Senate Results by County",
+    "section": "",
+    "text": "This interactive map displays county-level results for the most recent US Senate general election across the Southern states. Hover over or click any county to view the candidate, winning party, vote counts, and percentage."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#us-senate-representation-in-southern-states",
+    "href": "index.html#us-senate-representation-in-southern-states",
+    "title": "Elections 2026",
+    "section": "US Senate Representation in Southern States",
+    "text": "US Senate Representation in Southern States\n\n# Define Senate representation for Southern states\nsouthern_senate &lt;- tibble(\n  ID = c(\"alabama\", \"arkansas\", \"florida\", \"georgia\", \"kentucky\", \n         \"louisiana\", \"mississippi\", \"north carolina\", \"south carolina\", \n         \"tennessee\", \"texas\", \"virginia\", \"west virginia\"),\n  state_name = c(\"Alabama\", \"Arkansas\", \"Florida\", \"Georgia\", \"Kentucky\",\n                 \"Louisiana\", \"Mississippi\", \"North Carolina\", \"South Carolina\",\n                 \"Tennessee\", \"Texas\", \"Virginia\", \"West Virginia\"),\n  senators = c(\n    \"Tommy Tuberville (R), Katie Britt (R)\",\n    \"John Boozman (R), Tom Cotton (R)\",\n    \"Marco Rubio (R), Rick Scott (R)\",\n    \"Jon Ossoff (D), Raphael Warnock (D)\",\n    \"Mitch McConnell (R), Rand Paul (R)\",\n    \"Bill Cassidy (R), John Kennedy (R)\",\n    \"Roger Wicker (R), Cindy Hyde-Smith (R)\",\n    \"Thom Tillis (R), Ted Budd (R)\",\n    \"Lindsey Graham (R), Tim Scott (R)\",\n    \"Marsha Blackburn (R), Bill Hagerty (R)\",\n    \"John Cornyn (R), Ted Cruz (R)\",\n    \"Mark Warner (D), Tim Kaine (D)\",\n    \"Shelley Moore Capito (R), Joe Manchin (I)\"\n  ),\n  party_control = c(\n    \"2 Republicans\", \"2 Republicans\", \"2 Republicans\", \"2 Democrats\",\n    \"2 Republicans\", \"2 Republicans\", \"2 Republicans\", \"2 Republicans\",\n    \"2 Republicans\", \"2 Republicans\", \"2 Republicans\", \"2 Democrats\",\n    \"Split / Independent\"\n  )\n)\n\n# Join data with state geographic boundaries\nsouth_sf &lt;- st_as_sf(maps::map(\"state\", plot = FALSE, fill = TRUE)) |&gt;\n  st_transform(4326) |&gt;\n  inner_join(southern_senate, by = \"ID\")\n\n# Set color palette for party control\nparty_pal &lt;- colorFactor(\n  palette = c(\"2 Democrats\" = \"#2E86AB\", \"2 Republicans\" = \"#E63946\", \"Split / Independent\" = \"#A8DADC\"),\n  domain = south_sf$party_control\n)\n\n# Build interactive leaflet map\nleaflet(south_sf) |&gt;\n  addProviderTiles(providers$CartoDB.Positron) |&gt;\n  addPolygons(\n    fillColor = ~party_pal(party_control),\n    weight = 1.5,\n    opacity = 1,\n    color = \"white\",\n    fillOpacity = 0.7,\n    label = ~paste0(state_name, \": \", party_control),\n    popup = ~paste0(\"&lt;strong&gt;\", state_name, \"&lt;/strong&gt;&lt;br/&gt;Senators: \", senators, \"&lt;br/&gt;Status: \", party_control)\n  ) |&gt;\n  addLegend(\n    pal = party_pal, \n    values = ~party_control, \n    title = \"Senate Representation\", \n    position = \"bottomright\"\n  )"
+  }
+]

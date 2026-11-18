@@ -1,0 +1,1317 @@
+state,county_fips,county_name,year,total_votes,winning_candidate,winning_party,winning_votes,winning_pct
+Alabama,01001,Autauga,2022,17740,Katie Britt,Republican,13359,75.3
+Alabama,01003,Baldwin,2022,73197,Katie Britt,Republican,59501,81.3
+Alabama,01005,Barbour,2022,6543,Katie Britt,Republican,3861,59
+Alabama,01007,Bibb,2022,5869,Katie Britt,Republican,4694,80
+Alabama,01009,Blount,2022,16586,Katie Britt,Republican,14904,89.9
+Alabama,01011,Bullock,2022,2644,Will Boyd,Democrat,1827,69.1
+Alabama,01013,Butler,2022,5909,Katie Britt,Republican,3789,64.1
+Alabama,01015,Calhoun,2022,30081,Katie Britt,Republican,22008,73.2
+Alabama,01017,Chambers,2022,9099,Katie Britt,Republican,5917,65
+Alabama,01019,Cherokee,2022,7835,Katie Britt,Republican,6947,88.7
+Alabama,01021,Chilton,2022,12164,Katie Britt,Republican,10386,85.4
+Alabama,01023,Choctaw,2022,5154,Katie Britt,Republican,3198,62
+Alabama,01025,Clarke,2022,9019,Katie Britt,Republican,5348,59.3
+Alabama,01027,Clay,2022,4233,Katie Britt,Republican,3628,85.7
+Alabama,01029,Cleburne,2022,4604,Katie Britt,Republican,4212,91.5
+Alabama,01031,Coffee,2022,13998,Katie Britt,Republican,11411,81.5
+Alabama,01033,Colbert,2022,17256,Katie Britt,Republican,12748,73.9
+Alabama,01035,Conecuh,2022,4435,Katie Britt,Republican,2564,57.8
+Alabama,01037,Coosa,2022,3816,Katie Britt,Republican,2662,69.8
+Alabama,01039,Covington,2022,11272,Katie Britt,Republican,9852,87.4
+Alabama,01041,Crenshaw,2022,4562,Katie Britt,Republican,3607,79.1
+Alabama,01043,Cullman,2022,26123,Katie Britt,Republican,23228,88.9
+Alabama,01045,Dale,2022,11999,Katie Britt,Republican,9458,78.8
+Alabama,01047,Dallas,2022,11311,Will Boyd,Democrat,7312,64.6
+Alabama,01049,Dekalb,2022,17134,Katie Britt,Republican,15200,88.7
+Alabama,01051,Elmore,2022,25739,Katie Britt,Republican,20167,78.4
+Alabama,01053,Escambia,2022,9652,Katie Britt,Republican,7284,75.5
+Alabama,01055,Etowah,2022,26092,Katie Britt,Republican,20599,78.9
+Alabama,01057,Fayette,2022,5501,Katie Britt,Republican,4697,85.4
+Alabama,01059,Franklin,2022,7438,Katie Britt,Republican,6547,88
+Alabama,01061,Geneva,2022,7978,Katie Britt,Republican,7113,89.2
+Alabama,01063,Greene,2022,2966,Will Boyd,Democrat,2337,78.8
+Alabama,01065,Hale,2022,5173,Will Boyd,Democrat,2790,53.9
+Alabama,01067,Henry,2022,6732,Katie Britt,Republican,5085,75.5
+Alabama,01069,Houston,2022,27608,Katie Britt,Republican,21246,77
+Alabama,01071,Jackson,2022,13372,Katie Britt,Republican,11617,86.9
+Alabama,01073,Jefferson,2022,197832,Will Boyd,Democrat,100792,50.9
+Alabama,01075,Lamar,2022,4376,Katie Britt,Republican,3869,88.4
+Alabama,01077,Lauderdale,2022,25888,Katie Britt,Republican,19893,76.8
+Alabama,01079,Lawrence,2022,10728,Katie Britt,Republican,8573,79.9
+Alabama,01081,Lee,2022,40582,Katie Britt,Republican,26966,66.4
+Alabama,01083,Limestone,2022,31340,Katie Britt,Republican,23422,74.7
+Alabama,01085,Lowndes,2022,4071,Will Boyd,Democrat,2734,67.2
+Alabama,01087,Macon,2022,5371,Will Boyd,Democrat,4131,76.9
+Alabama,01089,Madison,2022,120500,Katie Britt,Republican,70577,58.6
+Alabama,01091,Marengo,2022,7264,Katie Britt,Republican,3807,52.4
+Alabama,01093,Marion,2022,8387,Katie Britt,Republican,7636,91
+Alabama,01095,Marshall,2022,24227,Katie Britt,Republican,21211,87.6
+Alabama,01097,Mobile,2022,107100,Katie Britt,Republican,64378,60.1
+Alabama,01099,Monroe,2022,7026,Katie Britt,Republican,4270,60.8
+Alabama,01101,Montgomery,2022,57705,Will Boyd,Democrat,33685,58.4
+Alabama,01103,Morgan,2022,32105,Katie Britt,Republican,25310,78.8
+Alabama,01105,Perry,2022,3176,Will Boyd,Democrat,2224,70
+Alabama,01107,Pickens,2022,6571,Katie Britt,Republican,4225,64.3
+Alabama,01109,Pike,2022,8135,Katie Britt,Republican,5359,65.9
+Alabama,01111,Randolph,2022,6577,Katie Britt,Republican,5471,83.2
+Alabama,01113,Russell,2022,11545,Katie Britt,Republican,5967,51.7
+Alabama,01115,St. Clair,2022,27920,Katie Britt,Republican,23049,82.6
+Alabama,01117,Shelby,2022,69874,Katie Britt,Republican,50762,72.6
+Alabama,01119,Sumter,2022,3876,Will Boyd,Democrat,2684,69.2
+Alabama,01121,Talladega,2022,21620,Katie Britt,Republican,14269,66
+Alabama,01123,Tallapoosa,2022,13568,Katie Britt,Republican,10421,76.8
+Alabama,01125,Tuscaloosa,2022,51626,Katie Britt,Republican,31879,61.7
+Alabama,01127,Walker,2022,17821,Katie Britt,Republican,15206,85.3
+Alabama,01129,Washington,2022,5878,Katie Britt,Republican,4557,77.5
+Alabama,01131,Wilcox,2022,3812,Will Boyd,Democrat,2446,64.2
+Alabama,01133,Winston,2022,6903,Katie Britt,Republican,6309,91.4
+Arkansas,05001,Arkansas,2022,4459,John Boozman,Republican,3342,74.9
+Arkansas,05003,Ashley,2022,5434,John Boozman,Republican,4103,75.5
+Arkansas,05005,Baxter,2022,15590,John Boozman,Republican,12207,78.3
+Arkansas,05007,Benton,2022,90562,John Boozman,Republican,58938,65.1
+Arkansas,05009,Boone,2022,12686,John Boozman,Republican,10174,80.2
+Arkansas,05011,Bradley,2022,2617,John Boozman,Republican,1824,69.7
+Arkansas,05013,Calhoun,2022,1583,John Boozman,Republican,1269,80.2
+Arkansas,05015,Carroll,2022,9029,John Boozman,Republican,5867,65
+Arkansas,05017,Chicot,2022,3381,John Boozman,Republican,1687,49.9
+Arkansas,05019,Clark,2022,6105,John Boozman,Republican,3685,60.4
+Arkansas,05021,Clay,2022,3917,John Boozman,Republican,3080,78.6
+Arkansas,05023,Cleburne,2022,10026,John Boozman,Republican,8336,83.1
+Arkansas,05025,Cleveland,2022,2788,John Boozman,Republican,2343,84
+Arkansas,05027,Columbia,2022,6053,John Boozman,Republican,4177,69
+Arkansas,05029,Conway,2022,6716,John Boozman,Republican,4648,69.2
+Arkansas,05031,Craighead,2022,27583,John Boozman,Republican,18697,67.8
+Arkansas,05033,Crawford,2022,17679,John Boozman,Republican,13894,78.6
+Arkansas,05035,Crittenden,2022,10645,John Boozman,Republican,5436,51.1
+Arkansas,05037,Cross,2022,4905,John Boozman,Republican,3707,75.6
+Arkansas,05039,Dallas,2022,2054,John Boozman,Republican,1366,66.5
+Arkansas,05041,Desha,2022,3014,John Boozman,Republican,1647,54.6
+Arkansas,05043,Drew,2022,5246,John Boozman,Republican,3525,67.2
+Arkansas,05045,Faulkner,2022,40001,John Boozman,Republican,26218,65.5
+Arkansas,05047,Franklin,2022,5373,John Boozman,Republican,4284,79.7
+Arkansas,05049,Fulton,2022,3968,John Boozman,Republican,3119,78.6
+Arkansas,05051,Garland,2022,32954,John Boozman,Republican,22606,68.6
+Arkansas,05053,Grant,2022,6278,John Boozman,Republican,5205,82.9
+Arkansas,05055,Greene,2022,11506,John Boozman,Republican,9050,78.7
+Arkansas,05057,Hempstead,2022,4636,John Boozman,Republican,3338,72
+Arkansas,05059,Hot Spring,2022,9866,John Boozman,Republican,7360,74.6
+Arkansas,05061,Howard,2022,3613,John Boozman,Republican,2668,73.8
+Arkansas,05063,Independence,2022,10521,John Boozman,Republican,8325,79.1
+Arkansas,05065,Izard,2022,4566,John Boozman,Republican,3687,80.7
+Arkansas,05067,Jackson,2022,4012,John Boozman,Republican,2913,72.6
+Arkansas,05069,Jefferson,2022,17216,Natalie James,Democrat,9339,54.2
+Arkansas,05071,Johnson,2022,6987,John Boozman,Republican,5287,75.7
+Arkansas,05073,Lafayette,2022,1956,John Boozman,Republican,1281,65.5
+Arkansas,05075,Lawrence,2022,4576,John Boozman,Republican,3692,80.7
+Arkansas,05077,Lee,2022,1988,John Boozman,Republican,978,49.2
+Arkansas,05079,Lincoln,2022,2733,John Boozman,Republican,2040,74.6
+Arkansas,05081,Little River,2022,3789,John Boozman,Republican,2879,76
+Arkansas,05083,Logan,2022,6228,John Boozman,Republican,4920,79
+Arkansas,05085,Lonoke,2022,22336,John Boozman,Republican,17007,76.1
+Arkansas,05087,Madison,2022,5775,John Boozman,Republican,4489,77.7
+Arkansas,05089,Marion,2022,5984,John Boozman,Republican,4766,79.6
+Arkansas,05091,Miller,2022,11183,John Boozman,Republican,8475,75.8
+Arkansas,05093,Mississippi,2022,8501,John Boozman,Republican,5430,63.9
+Arkansas,05095,Monroe,2022,2233,John Boozman,Republican,1295,58
+Arkansas,05097,Montgomery,2022,3153,John Boozman,Republican,2516,79.8
+Arkansas,05099,Nevada,2022,2456,John Boozman,Republican,1667,67.9
+Arkansas,05101,Newton,2022,3060,John Boozman,Republican,2440,79.7
+Arkansas,05103,Ouachita,2022,6994,John Boozman,Republican,4163,59.5
+Arkansas,05105,Perry,2022,3792,John Boozman,Republican,2919,77
+Arkansas,05109,Pike,2022,3703,John Boozman,Republican,3133,84.6
+Arkansas,05111,Poinsett,2022,5549,John Boozman,Republican,4419,79.6
+Arkansas,05113,Polk,2022,6864,John Boozman,Republican,5669,82.6
+Arkansas,05115,Pope,2022,17454,John Boozman,Republican,13158,75.4
+Arkansas,05117,Prairie,2022,2658,John Boozman,Republican,2209,83.1
+Arkansas,05119,Pulaski,2022,123432,Natalie James,Democrat,67503,54.7
+Arkansas,05121,Randolph,2022,5245,John Boozman,Republican,4160,79.3
+Arkansas,05123,St Francis,2022,5039,John Boozman,Republican,2514,49.9
+Arkansas,05125,Saline,2022,43076,John Boozman,Republican,30900,71.7
+Arkansas,05127,Scott,2022,2950,John Boozman,Republican,2497,84.6
+Arkansas,05129,Searcy,2022,3111,John Boozman,Republican,2523,81.1
+Arkansas,05131,Sebastian,2022,34269,John Boozman,Republican,24097,70.3
+Arkansas,05133,Sevier,2022,3623,John Boozman,Republican,2888,79.7
+Arkansas,05135,Sharp,2022,6026,John Boozman,Republican,4848,80.5
+Arkansas,05137,Stone,2022,5067,John Boozman,Republican,3949,77.9
+Arkansas,05139,Union,2022,11599,John Boozman,Republican,7926,68.3
+Arkansas,05141,Van Buren,2022,6238,John Boozman,Republican,4861,77.9
+Arkansas,05143,Washington,2022,70431,John Boozman,Republican,37336,53
+Arkansas,05145,White,2022,23052,John Boozman,Republican,18497,80.2
+Arkansas,05147,Woodruff,2022,2076,John Boozman,Republican,1376,66.3
+Arkansas,05149,Yell,2022,5262,John Boozman,Republican,4264,81
+Florida,12001,Alachua,2024,135382,Debbie Mucarsel-Powell,Democrat,78314,57.8
+Florida,12003,Baker,2024,14826,Rick Scott,Republican,12415,83.7
+Florida,12005,Bay,2024,97152,Rick Scott,Republican,72045,74.2
+Florida,12007,Bradford,2024,13628,Rick Scott,Republican,10363,76
+Florida,12009,Brevard,2024,358019,Rick Scott,Republican,209204,58.4
+Florida,12011,Broward,2024,863473,Debbie Mucarsel-Powell,Democrat,512458,59.3
+Florida,12013,Calhoun,2024,6373,Rick Scott,Republican,5280,82.8
+Florida,12015,Charlotte,2024,122318,Rick Scott,Republican,82377,67.3
+Florida,12017,Citrus,2024,96985,Rick Scott,Republican,66837,68.9
+Florida,12019,Clay,2024,125890,Rick Scott,Republican,86368,68.6
+Florida,12021,Collier,2024,215709,Rick Scott,Republican,150015,69.5
+Florida,12023,Columbia,2024,33269,Rick Scott,Republican,24400,73.3
+Florida,12027,Desoto,2024,12321,Rick Scott,Republican,8708,70.7
+Florida,12029,Dixie,2024,8015,Rick Scott,Republican,6673,83.3
+Florida,12031,Duval,2024,464224,Rick Scott,Republican,232168,50
+Florida,12033,Escambia,2024,161884,Rick Scott,Republican,98502,60.8
+Florida,12035,Flagler,2024,78966,Rick Scott,Republican,49683,62.9
+Florida,12037,Franklin,2024,6728,Rick Scott,Republican,4814,71.6
+Florida,12039,Gadsden,2024,21759,Debbie Mucarsel-Powell,Democrat,13192,60.6
+Florida,12041,Gilchrist,2024,10589,Rick Scott,Republican,8740,82.5
+Florida,12043,Glades,2024,5246,Rick Scott,Republican,3987,76
+Florida,12045,Gulf,2024,8655,Rick Scott,Republican,6745,77.9
+Florida,12047,Hamilton,2024,5669,Rick Scott,Republican,3945,69.6
+Florida,12049,Hardee,2024,8071,Rick Scott,Republican,6017,74.6
+Florida,12051,Hendry,2024,13271,Rick Scott,Republican,9215,69.4
+Florida,12053,Hernando,2024,109227,Rick Scott,Republican,70178,64.2
+Florida,12055,Highlands,2024,51302,Rick Scott,Republican,34858,67.9
+Florida,12057,Hillsborough,2024,665954,Rick Scott,Republican,336341,50.5
+Florida,12059,Holmes,2024,9068,Rick Scott,Republican,8063,88.9
+Florida,12061,Indian River,2024,97854,Rick Scott,Republican,61075,62.4
+Florida,12063,Jackson,2024,21992,Rick Scott,Republican,16033,72.9
+Florida,12065,Jefferson,2024,8464,Rick Scott,Republican,5118,60.5
+Florida,12067,Lafayette,2024,3729,Rick Scott,Republican,3183,85.4
+Florida,12069,Lake,2024,224021,Rick Scott,Republican,136284,60.8
+Florida,12071,Lee,2024,385532,Rick Scott,Republican,255340,66.2
+Florida,12073,Leon,2024,155285,Debbie Mucarsel-Powell,Democrat,88881,57.2
+Florida,12075,Levy,2024,24127,Rick Scott,Republican,17894,74.2
+Florida,12077,Liberty,2024,3454,Rick Scott,Republican,2859,82.8
+Florida,12079,Madison,2024,9089,Rick Scott,Republican,5984,65.8
+Florida,12081,Manatee,2024,226843,Rick Scott,Republican,137928,60.8
+Florida,12083,Marion,2024,211655,Rick Scott,Republican,135179,63.9
+Florida,12085,Martin,2024,97314,Rick Scott,Republican,61948,63.7
+Florida,12086,Miami-Dade,2024,1077000,Rick Scott,Republican,585445,54.4
+Florida,12087,Monroe,2024,43808,Rick Scott,Republican,25069,57.2
+Florida,12089,Nassau,2024,65366,Rick Scott,Republican,47668,72.9
+Florida,12091,Okaloosa,2024,112739,Rick Scott,Republican,81192,72
+Florida,12093,Okeechobee,2024,15802,Rick Scott,Republican,11544,73.1
+Florida,12095,Orange,2024,601093,Debbie Mucarsel-Powell,Democrat,330386,55
+Florida,12097,Osceola,2024,170464,Rick Scott,Republican,85085,49.9
+Florida,12099,Palm Beach,2024,734827,Debbie Mucarsel-Powell,Democrat,368640,50.2
+Florida,12101,Pasco,2024,313938,Rick Scott,Republican,186620,59.4
+Florida,12103,Pinellas,2024,511942,Rick Scott,Republican,260571,50.9
+Florida,12105,Polk,2024,343694,Rick Scott,Republican,201722,58.7
+Florida,12107,Putnam,2024,35874,Rick Scott,Republican,25621,71.4
+Florida,12109,St. Johns,2024,195794,Rick Scott,Republican,128463,65.6
+Florida,12111,St. Lucie,2024,182950,Rick Scott,Republican,95644,52.3
+Florida,12113,Santa Rosa,2024,111629,Rick Scott,Republican,84815,76
+Florida,12115,Sarasota,2024,275568,Rick Scott,Republican,160328,58.2
+Florida,12117,Seminole,2024,250755,Rick Scott,Republican,127316,50.8
+Florida,12119,Sumter,2024,104631,Rick Scott,Republican,72344,69.1
+Florida,12121,Suwannee,2024,21685,Rick Scott,Republican,17123,79
+Florida,12123,Taylor,2024,9897,Rick Scott,Republican,7914,80
+Florida,12125,Union,2024,6167,Rick Scott,Republican,4967,80.5
+Florida,12127,Volusia,2024,306908,Rick Scott,Republican,179997,58.6
+Florida,12129,Wakulla,2024,19675,Rick Scott,Republican,14013,71.2
+Florida,12131,Walton,2024,49249,Rick Scott,Republican,38828,78.8
+Florida,12133,Washington,2024,12525,Rick Scott,Republican,10294,82.2
+Georgia,13001,Appling,2020,8187,David A Perdue,Republican,6306,77
+Georgia,13003,Atkinson,2020,3097,David A Perdue,Republican,2272,73.4
+Georgia,13005,Bacon,2020,4590,David A Perdue,Republican,3929,85.6
+Georgia,13007,Baker,2020,1534,David A Perdue,Republican,873,56.9
+Georgia,13009,Baldwin,2020,18082,David A Perdue,Republican,8873,49.1
+Georgia,13011,Banks,2020,8725,David A Perdue,Republican,7636,87.5
+Georgia,13013,Barrow,2020,37576,David A Perdue,Republican,26317,70
+Georgia,13015,Bartow,2020,50034,David A Perdue,Republican,37009,74
+Georgia,13017,Ben Hill,2020,6477,David A Perdue,Republican,4077,62.9
+Georgia,13019,Berrien,2020,7650,David A Perdue,Republican,6286,82.2
+Georgia,13021,Bibb,2020,69987,Jon Ossoff,Democrat,41928,59.9
+Georgia,13023,Bleckley,2020,5644,David A Perdue,Republican,4281,75.9
+Georgia,13025,Brantley,2020,7616,David A Perdue,Republican,6812,89.4
+Georgia,13027,Brooks,2020,6976,David A Perdue,Republican,4250,60.9
+Georgia,13029,Bryan,2020,21163,David A Perdue,Republican,14067,66.5
+Georgia,13031,Bulloch,2020,29793,David A Perdue,Republican,18232,61.2
+Georgia,13033,Burke,2020,10560,David A Perdue,Republican,5407,51.2
+Georgia,13035,Butts,2020,11673,David A Perdue,Republican,8329,71.4
+Georgia,13037,Calhoun,2020,2172,Jon Ossoff,Democrat,1211,55.8
+Georgia,13039,Camden,2020,23349,David A Perdue,Republican,14987,64.2
+Georgia,13043,Candler,2020,4370,David A Perdue,Republican,3077,70.4
+Georgia,13045,Carroll,2020,53973,David A Perdue,Republican,36997,68.5
+Georgia,13047,Catoosa,2020,32174,David A Perdue,Republican,24571,76.4
+Georgia,13049,Charlton,2020,4477,David A Perdue,Republican,3357,75
+Georgia,13051,Chatham,2020,131847,Jon Ossoff,Democrat,75873,57.5
+Georgia,13053,Chattahoochee,2020,1546,David A Perdue,Republican,850,55
+Georgia,13055,Chattooga,2020,9938,David A Perdue,Republican,7777,78.3
+Georgia,13057,Cherokee,2020,143526,David A Perdue,Republican,99384,69.2
+Georgia,13059,Clarke,2020,50950,Jon Ossoff,Democrat,34549,67.8
+Georgia,13061,Clay,2020,1416,Jon Ossoff,Democrat,748,52.8
+Georgia,13063,Clayton,2020,111045,Jon Ossoff,Democrat,93699,84.4
+Georgia,13065,Clinch,2020,2797,David A Perdue,Republican,2083,74.5
+Georgia,13067,Cobb,2020,390772,Jon Ossoff,Democrat,210851,54
+Georgia,13069,Coffee,2020,14991,David A Perdue,Republican,10424,69.5
+Georgia,13071,Colquitt,2020,15891,David A Perdue,Republican,11644,73.3
+Georgia,13073,Columbia,2020,79907,David A Perdue,Republican,50220,62.8
+Georgia,13075,Cook,2020,6972,David A Perdue,Republican,4864,69.8
+Georgia,13077,Coweta,2020,76122,David A Perdue,Republican,51299,67.4
+Georgia,13079,Crawford,2020,6026,David A Perdue,Republican,4330,71.9
+Georgia,13081,Crisp,2020,7968,David A Perdue,Republican,5054,63.4
+Georgia,13083,Dade,2020,7332,David A Perdue,Republican,5871,80.1
+Georgia,13085,Dawson,2020,15924,David A Perdue,Republican,13217,83
+Georgia,13087,Decatur,2020,11449,David A Perdue,Republican,6696,58.5
+Georgia,13089,Dekalb,2020,367643,Jon Ossoff,Democrat,298479,81.2
+Georgia,13091,Dodge,2020,7952,David A Perdue,Republican,5793,72.8
+Georgia,13093,Dooly,2020,4059,David A Perdue,Republican,2158,53.2
+Georgia,13095,Dougherty,2020,34911,Jon Ossoff,Democrat,23821,68.2
+Georgia,13097,Douglas,2020,68441,Jon Ossoff,Democrat,41796,61.1
+Georgia,13099,Early,2020,5105,David A Perdue,Republican,2796,54.8
+Georgia,13101,Echols,2020,1418,David A Perdue,Republican,1232,86.9
+Georgia,13103,Effingham,2020,31287,David A Perdue,Republican,22832,73
+Georgia,13105,Elbert,2020,9075,David A Perdue,Republican,6225,68.6
+Georgia,13107,Emanuel,2020,9368,David A Perdue,Republican,6513,69.5
+Georgia,13109,Evans,2020,4191,David A Perdue,Republican,2876,68.6
+Georgia,13111,Fannin,2020,14686,David A Perdue,Republican,11972,81.5
+Georgia,13113,Fayette,2020,71470,David A Perdue,Republican,38403,53.7
+Georgia,13115,Floyd,2020,41288,David A Perdue,Republican,28752,69.6
+Georgia,13117,Forsyth,2020,128267,David A Perdue,Republican,85652,66.8
+Georgia,13119,Franklin,2020,10645,David A Perdue,Republican,8993,84.5
+Georgia,13121,Fulton,2020,520778,Jon Ossoff,Democrat,363269,69.8
+Georgia,13123,Gilmer,2020,16307,David A Perdue,Republican,13206,81
+Georgia,13125,Glascock,2020,1540,David A Perdue,Republican,1366,88.7
+Georgia,13127,Glynn,2020,41468,David A Perdue,Republican,25560,61.6
+Georgia,13129,Gordon,2020,23766,David A Perdue,Republican,19011,80
+Georgia,13131,Grady,2020,10580,David A Perdue,Republican,6969,65.9
+Georgia,13133,Greene,2020,11162,David A Perdue,Republican,7247,64.9
+Georgia,13135,Gwinnett,2020,411206,Jon Ossoff,Democrat,233551,56.8
+Georgia,13137,Habersham,2020,20259,David A Perdue,Republican,16385,80.9
+Georgia,13139,Hall,2020,89787,David A Perdue,Republican,63833,71.1
+Georgia,13141,Hancock,2020,4097,Jon Ossoff,Democrat,2858,69.8
+Georgia,13143,Haralson,2020,14116,David A Perdue,Republican,12016,85.1
+Georgia,13145,Harris,2020,19854,David A Perdue,Republican,14279,71.9
+Georgia,13147,Hart,2020,12532,David A Perdue,Republican,9377,74.8
+Georgia,13149,Heard,2020,5328,David A Perdue,Republican,4413,82.8
+Georgia,13151,Henry,2020,121709,Jon Ossoff,Democrat,71592,58.8
+Georgia,13153,Houston,2020,74162,David A Perdue,Republican,41428,55.9
+Georgia,13155,Irwin,2020,4144,David A Perdue,Republican,3095,74.7
+Georgia,13157,Jackson,2020,37383,David A Perdue,Republican,29166,78
+Georgia,13159,Jasper,2020,7592,David A Perdue,Republican,5751,75.8
+Georgia,13161,Jeff Davis,2020,5698,David A Perdue,Republican,4574,80.3
+Georgia,13163,Jefferson,2020,7554,Jon Ossoff,Democrat,3913,51.8
+Georgia,13165,Jenkins,2020,3400,David A Perdue,Republican,2155,63.4
+Georgia,13167,Johnson,2020,4034,David A Perdue,Republican,2801,69.4
+Georgia,13169,Jones,2020,14842,David A Perdue,Republican,9854,66.4
+Georgia,13171,Lamar,2020,8988,David A Perdue,Republican,6280,69.9
+Georgia,13173,Lanier,2020,3519,David A Perdue,Republican,2481,70.5
+Georgia,13175,Laurens,2020,22474,David A Perdue,Republican,14363,63.9
+Georgia,13177,Lee,2020,16559,David A Perdue,Republican,11862,71.6
+Georgia,13179,Liberty,2020,21091,Jon Ossoff,Democrat,12738,60.4
+Georgia,13181,Lincoln,2020,4593,David A Perdue,Republican,3139,68.3
+Georgia,13183,Long,2020,5581,David A Perdue,Republican,3389,60.7
+Georgia,13185,Lowndes,2020,45772,David A Perdue,Republican,25620,56
+Georgia,13187,Lumpkin,2020,15363,David A Perdue,Republican,11941,77.7
+Georgia,13189,Mcduffie,2020,10370,David A Perdue,Republican,6198,59.8
+Georgia,13191,Mcintosh,2020,6602,David A Perdue,Republican,3967,60.1
+Georgia,13193,Macon,2020,4593,Jon Ossoff,Democrat,2727,59.4
+Georgia,13195,Madison,2020,14798,David A Perdue,Republican,11136,75.3
+Georgia,13197,Marion,2020,3599,David A Perdue,Republican,2248,62.5
+Georgia,13199,Meriwether,2020,10762,David A Perdue,Republican,6432,59.8
+Georgia,13201,Miller,2020,2781,David A Perdue,Republican,2047,73.6
+Georgia,13205,Mitchell,2020,8871,David A Perdue,Republican,4921,55.5
+Georgia,13207,Monroe,2020,15428,David A Perdue,Republican,10929,70.8
+Georgia,13209,Montgomery,2020,3920,David A Perdue,Republican,2927,74.7
+Georgia,13211,Morgan,2020,11627,David A Perdue,Republican,8259,71
+Georgia,13213,Murray,2020,15151,David A Perdue,Republican,12493,82.5
+Georgia,13215,Muscogee,2020,79550,Jon Ossoff,Democrat,47552,59.8
+Georgia,13217,Newton,2020,53778,Jon Ossoff,Democrat,29220,54.3
+Georgia,13219,Oconee,2020,25142,David A Perdue,Republican,17108,68
+Georgia,13221,Oglethorpe,2020,8057,David A Perdue,Republican,5500,68.3
+Georgia,13223,Paulding,2020,84548,David A Perdue,Republican,53485,63.3
+Georgia,13225,Peach,2020,12432,David A Perdue,Republican,6483,52.1
+Georgia,13227,Pickens,2020,16969,David A Perdue,Republican,13860,81.7
+Georgia,13229,Pierce,2020,8941,David A Perdue,Republican,7810,87.4
+Georgia,13231,Pike,2020,10649,David A Perdue,Republican,9045,84.9
+Georgia,13233,Polk,2020,17235,David A Perdue,Republican,13282,77.1
+Georgia,13235,Pulaski,2020,4005,David A Perdue,Republican,2787,69.6
+Georgia,13237,Putnam,2020,11767,David A Perdue,Republican,8279,70.4
+Georgia,13239,Quitman,2020,1085,David A Perdue,Republican,600,55.3
+Georgia,13241,Rabun,2020,9472,David A Perdue,Republican,7392,78
+Georgia,13243,Randolph,2020,3041,Jon Ossoff,Democrat,1606,52.8
+Georgia,13245,Richmond,2020,85968,Jon Ossoff,Democrat,56786,66.1
+Georgia,13247,Rockdale,2020,44263,Jon Ossoff,Democrat,30641,69.2
+Georgia,13249,Schley,2020,2256,David A Perdue,Republican,1783,79
+Georgia,13251,Screven,2020,6547,David A Perdue,Republican,3893,59.5
+Georgia,13253,Seminole,2020,3838,David A Perdue,Republican,2597,67.7
+Georgia,13255,Spalding,2020,29764,David A Perdue,Republican,17768,59.7
+Georgia,13257,Stephens,2020,11768,David A Perdue,Republican,9353,79.5
+Georgia,13259,Stewart,2020,1953,Jon Ossoff,Democrat,1115,57.1
+Georgia,13261,Sumter,2020,12022,Jon Ossoff,Democrat,6114,50.9
+Georgia,13263,Talbot,2020,3450,Jon Ossoff,Democrat,2013,58.3
+Georgia,13265,Taliaferro,2020,902,Jon Ossoff,Democrat,521,57.8
+Georgia,13267,Tattnall,2020,8091,David A Perdue,Republican,5954,73.6
+Georgia,13269,Taylor,2020,3792,David A Perdue,Republican,2399,63.3
+Georgia,13271,Telfair,2020,4255,David A Perdue,Republican,2751,64.7
+Georgia,13273,Terrell,2020,4375,Jon Ossoff,Democrat,2277,52
+Georgia,13275,Thomas,2020,21600,David A Perdue,Republican,13020,60.3
+Georgia,13277,Tift,2020,16075,David A Perdue,Republican,10814,67.3
+Georgia,13279,Toombs,2020,10798,David A Perdue,Republican,7793,72.2
+Georgia,13281,Towns,2020,7888,David A Perdue,Republican,6291,79.8
+Georgia,13283,Treutlen,2020,3023,David A Perdue,Republican,2078,68.7
+Georgia,13285,Troup,2020,29809,David A Perdue,Republican,18162,60.9
+Georgia,13287,Turner,2020,3741,David A Perdue,Republican,2334,62.4
+Georgia,13289,Twiggs,2020,4381,David A Perdue,Republican,2313,52.8
+Georgia,13291,Union,2020,15378,David A Perdue,Republican,12423,80.8
+Georgia,13293,Upson,2020,12784,David A Perdue,Republican,8568,67
+Georgia,13295,Walker,2020,28968,David A Perdue,Republican,22650,78.2
+Georgia,13297,Walton,2020,50738,David A Perdue,Republican,37399,73.7
+Georgia,13299,Ware,2020,13979,David A Perdue,Republican,9773,69.9
+Georgia,13301,Warren,2020,2614,Jon Ossoff,Democrat,1407,53.8
+Georgia,13303,Washington,2020,9279,David A Perdue,Republican,4630,49.9
+Georgia,13305,Wayne,2020,12633,David A Perdue,Republican,9734,77.1
+Georgia,13307,Webster,2020,1372,David A Perdue,Republican,736,53.6
+Georgia,13309,Wheeler,2020,2254,David A Perdue,Republican,1562,69.3
+Georgia,13311,White,2020,14716,David A Perdue,Republican,12072,82
+Georgia,13313,Whitfield,2020,36297,David A Perdue,Republican,25158,69.3
+Georgia,13315,Wilcox,2020,3230,David A Perdue,Republican,2369,73.3
+Georgia,13317,Wilkes,2020,4945,David A Perdue,Republican,2810,56.8
+Georgia,13319,Wilkinson,2020,4704,David A Perdue,Republican,2608,55.4
+Georgia,13321,Worth,2020,9210,David A Perdue,Republican,6726,73
+Kentucky,21001,Adair,2022,6324,Rand Paul,Republican,5249,83
+Kentucky,21003,Allen,2022,6102,Rand Paul,Republican,4931,80.8
+Kentucky,21005,Anderson,2022,9378,Rand Paul,Republican,6687,71.3
+Kentucky,21007,Ballard,2022,3127,Rand Paul,Republican,2488,79.6
+Kentucky,21009,Barren,2022,14143,Rand Paul,Republican,10298,72.8
+Kentucky,21011,Bath,2022,4233,Rand Paul,Republican,2827,66.8
+Kentucky,21013,Bell,2022,6795,Rand Paul,Republican,5420,79.8
+Kentucky,21015,Boone,2022,45318,Rand Paul,Republican,30898,68.2
+Kentucky,21017,Bourbon,2022,6810,Rand Paul,Republican,4381,64.3
+Kentucky,21019,Boyd,2022,14169,Rand Paul,Republican,9071,64
+Kentucky,21021,Boyle,2022,10326,Rand Paul,Republican,6304,61
+Kentucky,21023,Bracken,2022,3234,Rand Paul,Republican,2478,76.6
+Kentucky,21025,Breathitt,2022,3552,Rand Paul,Republican,2285,64.3
+Kentucky,21027,Breckinridge,2022,6799,Rand Paul,Republican,5076,74.7
+Kentucky,21029,Bullitt,2022,24842,Rand Paul,Republican,17945,72.2
+Kentucky,21031,Butler,2022,4195,Rand Paul,Republican,3429,81.7
+Kentucky,21033,Caldwell,2022,4684,Rand Paul,Republican,3580,76.4
+Kentucky,21035,Calloway,2022,11841,Rand Paul,Republican,7906,66.8
+Kentucky,21037,Campbell,2022,35664,Rand Paul,Republican,20849,58.5
+Kentucky,21039,Carlisle,2022,2127,Rand Paul,Republican,1750,82.3
+Kentucky,21041,Carroll,2022,2878,Rand Paul,Republican,1992,69.2
+Kentucky,21043,Carter,2022,8176,Rand Paul,Republican,5792,70.8
+Kentucky,21045,Casey,2022,5148,Rand Paul,Republican,4396,85.4
+Kentucky,21047,Christian,2022,15465,Rand Paul,Republican,10255,66.3
+Kentucky,21049,Clark,2022,12805,Rand Paul,Republican,8270,64.6
+Kentucky,21051,Clay,2022,4925,Rand Paul,Republican,4238,86.1
+Kentucky,21053,Clinton,2022,3425,Rand Paul,Republican,3016,88.1
+Kentucky,21055,Crittenden,2022,3074,Rand Paul,Republican,2540,82.6
+Kentucky,21057,Cumberland,2022,2478,Rand Paul,Republican,2123,85.7
+Kentucky,21059,Daviess,2022,32906,Rand Paul,Republican,20998,63.8
+Kentucky,21061,Edmonson,2022,4266,Rand Paul,Republican,3309,77.6
+Kentucky,21063,Elliott,2022,2064,Rand Paul,Republican,1406,68.1
+Kentucky,21065,Estill,2022,4621,Rand Paul,Republican,3511,76
+Kentucky,21067,Fayette,2022,106548,Charles Booker,Democrat,64465,60.5
+Kentucky,21069,Fleming,2022,5057,Rand Paul,Republican,3803,75.2
+Kentucky,21071,Floyd,2022,11636,Rand Paul,Republican,7636,65.6
+Kentucky,21073,Franklin,2022,20162,Charles Booker,Democrat,10589,52.5
+Kentucky,21075,Fulton,2022,1532,Rand Paul,Republican,1087,71
+Kentucky,21077,Gallatin,2022,3012,Rand Paul,Republican,2224,73.8
+Kentucky,21079,Garrard,2022,5906,Rand Paul,Republican,4560,77.2
+Kentucky,21081,Grant,2022,7441,Rand Paul,Republican,5847,78.6
+Kentucky,21083,Graves,2022,12093,Rand Paul,Republican,9514,78.7
+Kentucky,21085,Grayson,2022,7916,Rand Paul,Republican,6229,78.7
+Kentucky,21087,Green,2022,4313,Rand Paul,Republican,3658,84.8
+Kentucky,21089,Greenup,2022,12634,Rand Paul,Republican,8899,70.4
+Kentucky,21091,Hancock,2022,3257,Rand Paul,Republican,2223,68.3
+Kentucky,21093,Hardin,2022,30886,Rand Paul,Republican,19413,62.9
+Kentucky,21095,Harlan,2022,7719,Rand Paul,Republican,6386,82.7
+Kentucky,21097,Harrison,2022,6659,Rand Paul,Republican,4624,69.4
+Kentucky,21099,Hart,2022,6226,Rand Paul,Republican,4624,74.3
+Kentucky,21101,Henderson,2022,13998,Rand Paul,Republican,8765,62.6
+Kentucky,21103,Henry,2022,6039,Rand Paul,Republican,4228,70
+Kentucky,21105,Hickman,2022,1547,Rand Paul,Republican,1264,81.7
+Kentucky,21107,Hopkins,2022,14797,Rand Paul,Republican,10592,71.6
+Kentucky,21109,Jackson,2022,3668,Rand Paul,Republican,3283,89.5
+Kentucky,21111,Jefferson,2022,277772,Charles Booker,Democrat,164065,59.1
+Kentucky,21113,Jessamine,2022,17301,Rand Paul,Republican,11569,66.9
+Kentucky,21115,Johnson,2022,5643,Rand Paul,Republican,4559,80.8
+Kentucky,21117,Kenton,2022,51153,Rand Paul,Republican,30057,58.8
+Kentucky,21119,Knott,2022,4792,Rand Paul,Republican,3252,67.9
+Kentucky,21121,Knox,2022,7973,Rand Paul,Republican,6457,81
+Kentucky,21123,Larue,2022,5205,Rand Paul,Republican,3955,76
+Kentucky,21125,Laurel,2022,17570,Rand Paul,Republican,14474,82.4
+Kentucky,21127,Lawrence,2022,4127,Rand Paul,Republican,3179,77
+Kentucky,21129,Lee,2022,2071,Rand Paul,Republican,1648,79.6
+Kentucky,21131,Leslie,2022,2880,Rand Paul,Republican,2509,87.1
+Kentucky,21133,Letcher,2022,5727,Rand Paul,Republican,3873,67.6
+Kentucky,21135,Lewis,2022,3831,Rand Paul,Republican,3259,85.1
+Kentucky,21137,Lincoln,2022,7403,Rand Paul,Republican,5687,76.8
+Kentucky,21139,Livingston,2022,3216,Rand Paul,Republican,2609,81.1
+Kentucky,21141,Logan,2022,8508,Rand Paul,Republican,6240,73.3
+Kentucky,21143,Lyon,2022,3230,Rand Paul,Republican,2356,72.9
+Kentucky,21145,Mccracken,2022,22762,Rand Paul,Republican,15294,67.2
+Kentucky,21147,Mccreary,2022,4367,Rand Paul,Republican,3738,85.6
+Kentucky,21149,Mclean,2022,3634,Rand Paul,Republican,2760,75.9
+Kentucky,21151,Madison,2022,30012,Rand Paul,Republican,18592,61.9
+Kentucky,21153,Magoffin,2022,4876,Rand Paul,Republican,3404,69.8
+Kentucky,21155,Marion,2022,5896,Rand Paul,Republican,3782,64.1
+Kentucky,21157,Marshall,2022,12930,Rand Paul,Republican,9875,76.4
+Kentucky,21159,Martin,2022,2599,Rand Paul,Republican,2241,86.2
+Kentucky,21161,Mason,2022,5806,Rand Paul,Republican,3879,66.8
+Kentucky,21163,Meade,2022,9555,Rand Paul,Republican,6881,72
+Kentucky,21165,Menifee,2022,2265,Rand Paul,Republican,1586,70
+Kentucky,21167,Mercer,2022,8288,Rand Paul,Republican,5980,72.2
+Kentucky,21169,Metcalfe,2022,3999,Rand Paul,Republican,3047,76.2
+Kentucky,21171,Monroe,2022,3807,Rand Paul,Republican,3356,88.2
+Kentucky,21173,Montgomery,2022,8986,Rand Paul,Republican,6152,68.5
+Kentucky,21175,Morgan,2022,4021,Rand Paul,Republican,2894,72
+Kentucky,21177,Muhlenberg,2022,10200,Rand Paul,Republican,7062,69.2
+Kentucky,21179,Nelson,2022,16993,Rand Paul,Republican,11205,65.9
+Kentucky,21181,Nicholas,2022,2473,Rand Paul,Republican,1649,66.7
+Kentucky,21183,Ohio,2022,7278,Rand Paul,Republican,5617,77.2
+Kentucky,21185,Oldham,2022,26297,Rand Paul,Republican,15998,60.8
+Kentucky,21187,Owen,2022,3895,Rand Paul,Republican,2937,75.4
+Kentucky,21189,Owsley,2022,1759,Rand Paul,Republican,1467,83.4
+Kentucky,21191,Pendleton,2022,4892,Rand Paul,Republican,3841,78.5
+Kentucky,21193,Perry,2022,7462,Rand Paul,Republican,5212,69.8
+Kentucky,21195,Pike,2022,15735,Rand Paul,Republican,11667,74.1
+Kentucky,21197,Powell,2022,3592,Rand Paul,Republican,2503,69.7
+Kentucky,21199,Pulaski,2022,21177,Rand Paul,Republican,17000,80.3
+Kentucky,21201,Robertson,2022,979,Rand Paul,Republican,684,69.9
+Kentucky,21203,Rockcastle,2022,4781,Rand Paul,Republican,4020,84.1
+Kentucky,21205,Rowan,2022,7416,Rand Paul,Republican,4235,57.1
+Kentucky,21207,Russell,2022,6346,Rand Paul,Republican,5373,84.7
+Kentucky,21209,Scott,2022,20503,Rand Paul,Republican,12302,60
+Kentucky,21211,Shelby,2022,17806,Rand Paul,Republican,11606,65.2
+Kentucky,21213,Simpson,2022,5738,Rand Paul,Republican,3975,69.3
+Kentucky,21215,Spencer,2022,7734,Rand Paul,Republican,5844,75.6
+Kentucky,21217,Taylor,2022,8996,Rand Paul,Republican,6751,75
+Kentucky,21219,Todd,2022,3495,Rand Paul,Republican,2681,76.7
+Kentucky,21221,Trigg,2022,5455,Rand Paul,Republican,4057,74.4
+Kentucky,21223,Trimble,2022,3190,Rand Paul,Republican,2394,75
+Kentucky,21225,Union,2022,4881,Rand Paul,Republican,3688,75.6
+Kentucky,21227,Warren,2022,38358,Rand Paul,Republican,22951,59.8
+Kentucky,21229,Washington,2022,4956,Rand Paul,Republican,3492,70.5
+Kentucky,21231,Wayne,2022,6331,Rand Paul,Republican,5021,79.3
+Kentucky,21233,Webster,2022,4212,Rand Paul,Republican,3158,75
+Kentucky,21235,Whitley,2022,10043,Rand Paul,Republican,8221,81.9
+Kentucky,21237,Wolfe,2022,2253,Rand Paul,Republican,1400,62.1
+Kentucky,21239,Woodford,2022,11251,Rand Paul,Republican,6227,55.3
+Louisiana,22001,Acadia,2022,19647,John Kennedy,Republican,15864,80.7
+Louisiana,22003,Allen,2022,6386,John Kennedy,Republican,5033,78.8
+Louisiana,22005,Ascension,2022,40776,John Kennedy,Republican,27149,66.6
+Louisiana,22007,Assumption,2022,7655,John Kennedy,Republican,5126,67
+Louisiana,22009,Avoyelles,2022,11422,John Kennedy,Republican,8102,70.9
+Louisiana,22011,Beauregard,2022,10830,John Kennedy,Republican,8979,82.9
+Louisiana,22013,Bienville,2022,4769,John Kennedy,Republican,2704,56.7
+Louisiana,22015,Bossier,2022,32181,John Kennedy,Republican,23910,74.3
+Louisiana,22017,Caddo,2022,66349,John Kennedy,Republican,33687,50.8
+Louisiana,22019,Calcasieu,2022,53673,John Kennedy,Republican,36865,68.7
+Louisiana,22021,Caldwell,2022,3219,John Kennedy,Republican,2738,85.1
+Louisiana,22023,Cameron,2022,2447,John Kennedy,Republican,2158,88.2
+Louisiana,22025,Catahoula,2022,3568,John Kennedy,Republican,2590,72.6
+Louisiana,22027,Claiborne,2022,4425,John Kennedy,Republican,2898,65.5
+Louisiana,22029,Concordia,2022,5947,John Kennedy,Republican,3912,65.8
+Louisiana,22031,De Soto,2022,9247,John Kennedy,Republican,6284,68
+Louisiana,22033,East Baton Rouge,2022,137079,John Kennedy,Republican,63024,46
+Louisiana,22035,East Carroll,2022,1983,John Kennedy,Republican,833,42
+Louisiana,22037,East Feliciana,2022,7430,John Kennedy,Republican,4560,61.4
+Louisiana,22039,Evangeline,2022,11116,John Kennedy,Republican,7841,70.5
+Louisiana,22041,Franklin,2022,6149,John Kennedy,Republican,4871,79.2
+Louisiana,22043,Grant,2022,6350,John Kennedy,Republican,5550,87.4
+Louisiana,22045,Iberia,2022,19632,John Kennedy,Republican,13796,70.3
+Louisiana,22047,Iberville,2022,12154,John Kennedy,Republican,6196,51
+Louisiana,22049,Jackson,2022,5670,John Kennedy,Republican,4045,71.3
+Louisiana,22051,Jefferson,2022,118183,John Kennedy,Republican,68954,58.3
+Louisiana,22053,Jefferson Davis,2022,10109,John Kennedy,Republican,7965,78.8
+Louisiana,22055,Lafayette,2022,72444,John Kennedy,Republican,48435,66.9
+Louisiana,22057,Lafourche,2022,30177,John Kennedy,Republican,24016,79.6
+Louisiana,22059,La Salle,2022,4983,John Kennedy,Republican,4486,90
+Louisiana,22061,Lincoln,2022,12583,John Kennedy,Republican,8155,64.8
+Louisiana,22063,Livingston,2022,42271,John Kennedy,Republican,35213,83.3
+Louisiana,22065,Madison,2022,2726,John Kennedy,Republican,1419,52.1
+Louisiana,22067,Morehouse,2022,7189,John Kennedy,Republican,4455,62
+Louisiana,22069,Natchitoches,2022,10294,John Kennedy,Republican,6600,64.1
+Louisiana,22071,Orleans,2022,111117,Gary Chambers Jr,Democrat,45713,41.1
+Louisiana,22073,Ouachita,2022,42920,John Kennedy,Republican,28727,66.9
+Louisiana,22075,Plaquemines,2022,7869,John Kennedy,Republican,5398,68.6
+Louisiana,22077,Pointe Coupee,2022,9631,John Kennedy,Republican,6039,62.7
+Louisiana,22079,Rapides,2022,39079,John Kennedy,Republican,27110,69.4
+Louisiana,22081,Red River,2022,2488,John Kennedy,Republican,1714,68.9
+Louisiana,22083,Richland,2022,6719,John Kennedy,Republican,4771,71
+Louisiana,22085,Sabine,2022,7488,John Kennedy,Republican,6316,84.3
+Louisiana,22087,St Bernard,2022,10739,John Kennedy,Republican,6950,64.7
+Louisiana,22089,St Charles,2022,18016,John Kennedy,Republican,11876,65.9
+Louisiana,22091,St Helena,2022,4170,John Kennedy,Republican,2034,48.8
+Louisiana,22093,St James,2022,8838,John Kennedy,Republican,4468,50.6
+Louisiana,22095,St John the Baptist,2022,11643,John Kennedy,Republican,4457,38.3
+Louisiana,22097,St Landry,2022,26942,John Kennedy,Republican,16217,60.2
+Louisiana,22099,St Martin,2022,17144,John Kennedy,Republican,12317,71.8
+Louisiana,22101,St Mary,2022,14461,John Kennedy,Republican,9755,67.5
+Louisiana,22103,St Tammany,2022,94655,John Kennedy,Republican,68694,72.6
+Louisiana,22105,Tangipahoa,2022,35489,John Kennedy,Republican,24754,69.8
+Louisiana,22107,Tensas,2022,1652,John Kennedy,Republican,900,54.5
+Louisiana,22109,Terrebonne,2022,27366,John Kennedy,Republican,20731,75.8
+Louisiana,22111,Union,2022,7680,John Kennedy,Republican,6070,79
+Louisiana,22113,Vermilion,2022,17953,John Kennedy,Republican,14573,81.2
+Louisiana,22115,Vernon,2022,11239,John Kennedy,Republican,9413,83.8
+Louisiana,22117,Washington,2022,13171,John Kennedy,Republican,9020,68.5
+Louisiana,22119,Webster,2022,11990,John Kennedy,Republican,8188,68.3
+Louisiana,22121,West Baton Rouge,2022,10104,John Kennedy,Republican,5815,57.6
+Louisiana,22123,West Carroll,2022,3389,John Kennedy,Republican,2964,87.5
+Louisiana,22125,West Feliciana,2022,4277,John Kennedy,Republican,2800,65.5
+Louisiana,22127,Winn,2022,3998,John Kennedy,Republican,3153,78.9
+Mississippi,28001,Adams,2024,11779,Ty Pinkins,Democrat,6560,55.7
+Mississippi,28003,Alcorn,2024,14856,Roger F Wicker,Republican,12576,84.7
+Mississippi,28005,Amite,2024,6808,Roger F Wicker,Republican,4514,66.3
+Mississippi,28007,Attala,2024,7647,Roger F Wicker,Republican,4753,62.2
+Mississippi,28009,Benton,2024,3802,Roger F Wicker,Republican,2522,66.3
+Mississippi,28011,Bolivar,2024,10301,Ty Pinkins,Democrat,6200,60.2
+Mississippi,28013,Calhoun,2024,5914,Roger F Wicker,Republican,4402,74.4
+Mississippi,28015,Carroll,2024,5124,Roger F Wicker,Republican,3746,73.1
+Mississippi,28017,Chickasaw,2024,7144,Roger F Wicker,Republican,4121,57.7
+Mississippi,28019,Choctaw,2024,3803,Roger F Wicker,Republican,2866,75.4
+Mississippi,28021,Claiborne,2024,3562,Ty Pinkins,Democrat,2843,79.8
+Mississippi,28023,Clarke,2024,7501,Roger F Wicker,Republican,5151,68.7
+Mississippi,28025,Clay,2024,9114,Ty Pinkins,Democrat,4886,53.6
+Mississippi,28027,Coahoma,2024,6679,Ty Pinkins,Democrat,4533,67.9
+Mississippi,28029,Copiah,2024,11675,Roger F Wicker,Republican,6388,54.7
+Mississippi,28031,Covington,2024,8803,Roger F Wicker,Republican,5924,67.3
+Mississippi,28033,Desoto,2024,77987,Roger F Wicker,Republican,49073,62.9
+Mississippi,28035,Forrest,2024,28325,Roger F Wicker,Republican,17104,60.4
+Mississippi,28037,Franklin,2024,4055,Roger F Wicker,Republican,2852,70.3
+Mississippi,28039,George,2024,10878,Roger F Wicker,Republican,9662,88.8
+Mississippi,28041,Greene,2024,5603,Roger F Wicker,Republican,4712,84.1
+Mississippi,28043,Grenada,2024,9678,Roger F Wicker,Republican,5689,58.8
+Mississippi,28045,Hancock,2024,20901,Roger F Wicker,Republican,16797,80.4
+Mississippi,28047,Harrison,2024,75152,Roger F Wicker,Republican,49863,66.3
+Mississippi,28049,Hinds,2024,86526,Ty Pinkins,Democrat,60625,70.1
+Mississippi,28051,Holmes,2024,6682,Ty Pinkins,Democrat,5226,78.2
+Mississippi,28053,Humphreys,2024,3430,Ty Pinkins,Democrat,2355,68.7
+Mississippi,28055,Issaquena,2024,595,Roger F Wicker,Republican,304,51.1
+Mississippi,28057,Itawamba,2024,10451,Roger F Wicker,Republican,9337,89.3
+Mississippi,28059,Jackson,2024,51991,Roger F Wicker,Republican,37059,71.3
+Mississippi,28061,Jasper,2024,7835,Roger F Wicker,Republican,4189,53.5
+Mississippi,28063,Jefferson,2024,3327,Ty Pinkins,Democrat,2634,79.2
+Mississippi,28065,Jefferson Davis,2024,5353,Ty Pinkins,Democrat,2970,55.5
+Mississippi,28067,Jones,2024,27553,Roger F Wicker,Republican,20307,73.7
+Mississippi,28069,Kemper,2024,4058,Ty Pinkins,Democrat,2234,55.1
+Mississippi,28071,Lafayette,2024,23208,Roger F Wicker,Republican,14761,63.6
+Mississippi,28073,Lamar,2024,27847,Roger F Wicker,Republican,20984,75.4
+Mississippi,28075,Lauderdale,2024,27012,Roger F Wicker,Republican,16873,62.5
+Mississippi,28077,Lawrence,2024,6004,Roger F Wicker,Republican,4137,68.9
+Mississippi,28079,Leake,2024,8345,Roger F Wicker,Republican,5229,62.7
+Mississippi,28081,Lee,2024,34767,Roger F Wicker,Republican,24415,70.2
+Mississippi,28083,Leflore,2024,9342,Ty Pinkins,Democrat,6231,66.7
+Mississippi,28085,Lincoln,2024,15679,Roger F Wicker,Republican,11599,74
+Mississippi,28087,Lowndes,2024,24238,Roger F Wicker,Republican,13548,55.9
+Mississippi,28089,Madison,2024,55361,Roger F Wicker,Republican,34181,61.7
+Mississippi,28091,Marion,2024,11086,Roger F Wicker,Republican,7845,70.8
+Mississippi,28093,Marshall,2024,14734,Roger F Wicker,Republican,8100,55
+Mississippi,28095,Monroe,2024,15945,Roger F Wicker,Republican,10920,68.5
+Mississippi,28097,Montgomery,2024,4349,Roger F Wicker,Republican,2671,61.4
+Mississippi,28099,Neshoba,2024,10784,Roger F Wicker,Republican,8245,76.5
+Mississippi,28101,Newton,2024,9219,Roger F Wicker,Republican,6657,72.2
+Mississippi,28103,Noxubee,2024,4287,Ty Pinkins,Democrat,2975,69.4
+Mississippi,28105,Oktibbeha,2024,17823,Roger F Wicker,Republican,9498,53.3
+Mississippi,28107,Panola,2024,14352,Roger F Wicker,Republican,8374,58.3
+Mississippi,28109,Pearl River,2024,24169,Roger F Wicker,Republican,20157,83.4
+Mississippi,28111,Perry,2024,5501,Roger F Wicker,Republican,4412,80.2
+Mississippi,28113,Pike,2024,15335,Roger F Wicker,Republican,8205,53.5
+Mississippi,28115,Pontotoc,2024,13860,Roger F Wicker,Republican,11556,83.4
+Mississippi,28117,Prentiss,2024,10221,Roger F Wicker,Republican,8504,83.2
+Mississippi,28119,Quitman,2024,2581,Ty Pinkins,Democrat,1629,63.1
+Mississippi,28121,Rankin,2024,68809,Roger F Wicker,Republican,51542,74.9
+Mississippi,28123,Scott,2024,9802,Roger F Wicker,Republican,6122,62.5
+Mississippi,28125,Sharkey,2024,1785,Ty Pinkins,Democrat,1229,68.9
+Mississippi,28127,Simpson,2024,10945,Roger F Wicker,Republican,7556,69
+Mississippi,28129,Smith,2024,7616,Roger F Wicker,Republican,6158,80.9
+Mississippi,28131,Stone,2024,7792,Roger F Wicker,Republican,6282,80.6
+Mississippi,28133,Sunflower,2024,7733,Ty Pinkins,Democrat,4659,60.2
+Mississippi,28135,Tallahatchie,2024,5024,Ty Pinkins,Democrat,2546,50.7
+Mississippi,28137,Tate,2024,12723,Roger F Wicker,Republican,9225,72.5
+Mississippi,28139,Tippah,2024,9477,Roger F Wicker,Republican,7927,83.6
+Mississippi,28141,Tishomingo,2024,8862,Roger F Wicker,Republican,7824,88.3
+Mississippi,28143,Tunica,2024,2624,Ty Pinkins,Democrat,1797,68.5
+Mississippi,28145,Union,2024,12263,Roger F Wicker,Republican,10484,85.5
+Mississippi,28147,Walthall,2024,6477,Roger F Wicker,Republican,4158,64.2
+Mississippi,28149,Warren,2024,18042,Roger F Wicker,Republican,9770,54.2
+Mississippi,28151,Washington,2024,14332,Ty Pinkins,Democrat,9406,65.6
+Mississippi,28153,Wayne,2024,9097,Roger F Wicker,Republican,6022,66.2
+Mississippi,28155,Webster,2024,5057,Roger F Wicker,Republican,4203,83.1
+Mississippi,28157,Wilkinson,2024,2846,Ty Pinkins,Democrat,1710,60.1
+Mississippi,28159,Winston,2024,8376,Roger F Wicker,Republican,4937,58.9
+Mississippi,28161,Yalobusha,2024,5852,Roger F Wicker,Republican,3609,61.7
+Mississippi,28163,Yazoo,2024,8925,Roger F Wicker,Republican,4702,52.7
+North Carolina,37001,Alamance,2022,60013,Ted Budd,Republican,32866,54.8
+North Carolina,37003,Alexander,2022,15265,Ted Budd,Republican,11833,77.5
+North Carolina,37005,Alleghany,2022,5021,Ted Budd,Republican,3648,72.7
+North Carolina,37007,Anson,2022,7163,Ted Budd,Republican,3711,51.8
+North Carolina,37009,Ashe,2022,11817,Ted Budd,Republican,8371,70.8
+North Carolina,37011,Avery,2022,6834,Ted Budd,Republican,5089,74.5
+North Carolina,37013,Beaufort,2022,18976,Ted Budd,Republican,12338,65
+North Carolina,37015,Bertie,2022,6360,Cheri Beasley,Democrat,3492,54.9
+North Carolina,37017,Bladen,2022,11783,Ted Budd,Republican,6745,57.2
+North Carolina,37019,Brunswick,2022,73093,Ted Budd,Republican,44911,61.4
+North Carolina,37021,Buncombe,2022,120126,Cheri Beasley,Democrat,73807,61.4
+North Carolina,37023,Burke,2022,29978,Ted Budd,Republican,20456,68.2
+North Carolina,37025,Cabarrus,2022,75681,Ted Budd,Republican,41468,54.8
+North Carolina,37027,Caldwell,2022,27908,Ted Budd,Republican,20900,74.9
+North Carolina,37029,Camden,2022,4280,Ted Budd,Republican,3127,73.1
+North Carolina,37031,Carteret,2022,32240,Ted Budd,Republican,22709,70.4
+North Carolina,37033,Caswell,2022,8118,Ted Budd,Republican,4867,60
+North Carolina,37035,Catawba,2022,55566,Ted Budd,Republican,38252,68.8
+North Carolina,37037,Chatham,2022,39469,Cheri Beasley,Democrat,22493,57
+North Carolina,37039,Cherokee,2022,12190,Ted Budd,Republican,9493,77.9
+North Carolina,37041,Chowan,2022,5519,Ted Budd,Republican,3360,60.9
+North Carolina,37043,Clay,2022,5518,Ted Budd,Republican,4073,73.8
+North Carolina,37045,Cleveland,2022,32846,Ted Budd,Republican,21654,65.9
+North Carolina,37047,Columbus,2022,19039,Ted Budd,Republican,11723,61.6
+North Carolina,37049,Craven,2022,36985,Ted Budd,Republican,21981,59.4
+North Carolina,37051,Cumberland,2022,84007,Cheri Beasley,Democrat,46449,55.3
+North Carolina,37053,Currituck,2022,11638,Ted Budd,Republican,8593,73.8
+North Carolina,37055,Dare,2022,17844,Ted Budd,Republican,10236,57.4
+North Carolina,37057,Davidson,2022,59260,Ted Budd,Republican,43393,73.2
+North Carolina,37059,Davie,2022,18059,Ted Budd,Republican,13191,73
+North Carolina,37061,Duplin,2022,15210,Ted Budd,Republican,9852,64.8
+North Carolina,37063,Durham,2022,128097,Cheri Beasley,Democrat,103630,80.9
+North Carolina,37065,Edgecombe,2022,15495,Cheri Beasley,Democrat,9213,59.5
+North Carolina,37067,Forsyth,2022,134818,Cheri Beasley,Democrat,73524,54.5
+North Carolina,37069,Franklin,2022,27630,Ted Budd,Republican,15292,55.3
+North Carolina,37071,Gaston,2022,73442,Ted Budd,Republican,46256,63
+North Carolina,37073,Gates,2022,4306,Ted Budd,Republican,2431,56.5
+North Carolina,37075,Graham,2022,3543,Ted Budd,Republican,2791,78.8
+North Carolina,37077,Granville,2022,22241,Ted Budd,Republican,11770,52.9
+North Carolina,37079,Greene,2022,6045,Ted Budd,Republican,3518,58.2
+North Carolina,37081,Guilford,2022,187236,Cheri Beasley,Democrat,108688,58
+North Carolina,37083,Halifax,2022,15715,Cheri Beasley,Democrat,8884,56.5
+North Carolina,37085,Harnett,2022,36923,Ted Budd,Republican,22860,61.9
+North Carolina,37087,Haywood,2022,26768,Ted Budd,Republican,16078,60.1
+North Carolina,37089,Henderson,2022,51165,Ted Budd,Republican,29798,58.2
+North Carolina,37091,Hertford,2022,6601,Cheri Beasley,Democrat,4096,62.1
+North Carolina,37093,Hoke,2022,13087,Cheri Beasley,Democrat,7111,54.3
+North Carolina,37095,Hyde,2022,1863,Ted Budd,Republican,1083,58.1
+North Carolina,37097,Iredell,2022,69625,Ted Budd,Republican,46598,66.9
+North Carolina,37099,Jackson,2022,14931,Ted Budd,Republican,7920,53
+North Carolina,37101,Johnston,2022,76054,Ted Budd,Republican,46239,60.8
+North Carolina,37103,Jones,2022,3873,Ted Budd,Republican,2382,61.5
+North Carolina,37105,Lee,2022,19233,Ted Budd,Republican,11042,57.4
+North Carolina,37107,Lenoir,2022,18686,Ted Budd,Republican,10452,55.9
+North Carolina,37109,Lincoln,2022,36285,Ted Budd,Republican,26130,72
+North Carolina,37111,Mcdowell,2022,16086,Ted Budd,Republican,11776,73.2
+North Carolina,37113,Macon,2022,15744,Ted Budd,Republican,10698,67.9
+North Carolina,37115,Madison,2022,10101,Ted Budd,Republican,5797,57.4
+North Carolina,37117,Martin,2022,8746,Ted Budd,Republican,4717,53.9
+North Carolina,37119,Mecklenburg,2022,360294,Cheri Beasley,Democrat,234787,65.2
+North Carolina,37121,Mitchell,2022,6532,Ted Budd,Republican,5024,76.9
+North Carolina,37123,Montgomery,2022,8684,Ted Budd,Republican,5834,67.2
+North Carolina,37125,Moore,2022,42316,Ted Budd,Republican,26874,63.5
+North Carolina,37127,Nash,2022,35739,Ted Budd,Republican,18796,52.6
+North Carolina,37129,New Hanover,2022,94017,Cheri Beasley,Democrat,46785,49.8
+North Carolina,37131,Northampton,2022,6777,Cheri Beasley,Democrat,3718,54.9
+North Carolina,37133,Onslow,2022,44013,Ted Budd,Republican,29106,66.1
+North Carolina,37135,Orange,2022,66553,Cheri Beasley,Democrat,51125,76.8
+North Carolina,37137,Pamlico,2022,6141,Ted Budd,Republican,3908,63.6
+North Carolina,37139,Pasquotank,2022,14161,Ted Budd,Republican,7304,51.6
+North Carolina,37141,Pender,2022,23525,Ted Budd,Republican,15466,65.7
+North Carolina,37143,Perquimans,2022,5468,Ted Budd,Republican,3813,69.7
+North Carolina,37145,Person,2022,15438,Ted Budd,Republican,9201,59.6
+North Carolina,37147,Pitt,2022,55026,Cheri Beasley,Democrat,27705,50.3
+North Carolina,37149,Polk,2022,9552,Ted Budd,Republican,5686,59.5
+North Carolina,37151,Randolph,2022,48346,Ted Budd,Republican,38030,78.7
+North Carolina,37153,Richmond,2022,12596,Ted Budd,Republican,7317,58.1
+North Carolina,37155,Robeson,2022,26713,Ted Budd,Republican,15555,58.2
+North Carolina,37157,Rockingham,2022,32566,Ted Budd,Republican,21617,66.4
+North Carolina,37159,Rowan,2022,48197,Ted Budd,Republican,32766,68
+North Carolina,37161,Rutherford,2022,23441,Ted Budd,Republican,17330,73.9
+North Carolina,37163,Sampson,2022,17879,Ted Budd,Republican,11574,64.7
+North Carolina,37165,Scotland,2022,9519,Ted Budd,Republican,4922,51.7
+North Carolina,37167,Stanly,2022,23626,Ted Budd,Republican,17927,75.9
+North Carolina,37169,Stokes,2022,18205,Ted Budd,Republican,13915,76.4
+North Carolina,37171,Surry,2022,24704,Ted Budd,Republican,18303,74.1
+North Carolina,37173,Swain,2022,4776,Ted Budd,Republican,2884,60.4
+North Carolina,37175,Transylvania,2022,16170,Ted Budd,Republican,8832,54.6
+North Carolina,37177,Tyrrell,2022,1280,Ted Budd,Republican,770,60.2
+North Carolina,37179,Union,2022,90103,Ted Budd,Republican,56882,63.1
+North Carolina,37181,Vance,2022,12967,Cheri Beasley,Democrat,7097,54.7
+North Carolina,37183,Wake,2022,453170,Cheri Beasley,Democrat,281367,62.1
+North Carolina,37185,Warren,2022,7183,Cheri Beasley,Democrat,4344,60.5
+North Carolina,37187,Washington,2022,4075,Cheri Beasley,Democrat,2002,49.1
+North Carolina,37189,Watauga,2022,22786,Cheri Beasley,Democrat,11677,51.2
+North Carolina,37191,Wayne,2022,35328,Ted Budd,Republican,20723,58.7
+North Carolina,37193,Wilkes,2022,24546,Ted Budd,Republican,19294,78.6
+North Carolina,37195,Wilson,2022,26249,Ted Budd,Republican,13310,50.7
+North Carolina,37197,Yadkin,2022,13870,Ted Budd,Republican,11117,80.2
+North Carolina,37199,Yancey,2022,8879,Ted Budd,Republican,5705,64.3
+South Carolina,45001,Abbeville,2022,8578,Tim Scott,Republican,6263,73
+South Carolina,45003,Aiken,2022,54975,Tim Scott,Republican,37687,68.6
+South Carolina,45005,Allendale,2022,1810,Krystle Matthews,Democrat,1225,67.7
+South Carolina,45007,Anderson,2022,63634,Tim Scott,Republican,49091,77.1
+South Carolina,45009,Bamberg,2022,3972,Krystle Matthews,Democrat,2151,54.2
+South Carolina,45011,Barnwell,2022,6277,Tim Scott,Republican,3815,60.8
+South Carolina,45013,Beaufort,2022,71827,Tim Scott,Republican,45307,63.1
+South Carolina,45015,Berkeley,2022,71130,Tim Scott,Republican,44418,62.4
+South Carolina,45017,Calhoun,2022,5612,Tim Scott,Republican,3442,61.3
+South Carolina,45019,Charleston,2022,152479,Tim Scott,Republican,79880,52.4
+South Carolina,45021,Cherokee,2022,16191,Tim Scott,Republican,12802,79.1
+South Carolina,45023,Chester,2022,9579,Tim Scott,Republican,5954,62.2
+South Carolina,45025,Chesterfield,2022,12540,Tim Scott,Republican,8299,66.2
+South Carolina,45027,Clarendon,2022,11432,Tim Scott,Republican,6625,58
+South Carolina,45029,Colleton,2022,12508,Tim Scott,Republican,7748,61.9
+South Carolina,45031,Darlington,2022,20036,Tim Scott,Republican,12122,60.5
+South Carolina,45033,Dillon,2022,7899,Tim Scott,Republican,4460,56.5
+South Carolina,45035,Dorchester,2022,49524,Tim Scott,Republican,30822,62.2
+South Carolina,45037,Edgefield,2022,8827,Tim Scott,Republican,6121,69.3
+South Carolina,45039,Fairfield,2022,8343,Krystle Matthews,Democrat,4447,53.3
+South Carolina,45041,Florence,2022,41349,Tim Scott,Republican,24129,58.4
+South Carolina,45043,Georgetown,2022,27371,Tim Scott,Republican,17467,63.8
+South Carolina,45045,Greenville,2022,178542,Tim Scott,Republican,118718,66.5
+South Carolina,45047,Greenwood,2022,21908,Tim Scott,Republican,15104,68.9
+South Carolina,45049,Hampton,2022,5634,Tim Scott,Republican,2827,50.2
+South Carolina,45051,Horry,2022,133374,Tim Scott,Republican,97061,72.8
+South Carolina,45053,Jasper,2022,11100,Tim Scott,Republican,6560,59.1
+South Carolina,45055,Kershaw,2022,22326,Tim Scott,Republican,14945,66.9
+South Carolina,45057,Lancaster,2022,34627,Tim Scott,Republican,23263,67.2
+South Carolina,45059,Laurens,2022,19842,Tim Scott,Republican,14564,73.4
+South Carolina,45061,Lee,2022,5242,Krystle Matthews,Democrat,3029,57.8
+South Carolina,45063,Lexington,2022,99590,Tim Scott,Republican,70441,70.7
+South Carolina,45065,Mccormick,2022,4580,Tim Scott,Republican,2827,61.7
+South Carolina,45067,Marion,2022,8406,Krystle Matthews,Democrat,4443,52.9
+South Carolina,45069,Marlboro,2022,6498,Tim Scott,Republican,3314,51
+South Carolina,45071,Newberry,2022,12757,Tim Scott,Republican,8971,70.3
+South Carolina,45073,Oconee,2022,28982,Tim Scott,Republican,22977,79.3
+South Carolina,45075,Orangeburg,2022,26151,Krystle Matthews,Democrat,16105,61.6
+South Carolina,45077,Pickens,2022,40345,Tim Scott,Republican,32238,79.9
+South Carolina,45079,Richland,2022,126705,Krystle Matthews,Democrat,79368,62.6
+South Carolina,45081,Saluda,2022,6549,Tim Scott,Republican,4941,75.4
+South Carolina,45083,Spartanburg,2022,97249,Tim Scott,Republican,68284,70.2
+South Carolina,45085,Sumter,2022,30592,Krystle Matthews,Democrat,15455,50.5
+South Carolina,45087,Union,2022,8693,Tim Scott,Republican,6032,69.4
+South Carolina,45089,Williamsburg,2022,9756,Krystle Matthews,Democrat,5702,58.4
+South Carolina,45091,York,2022,96415,Tim Scott,Republican,61753,64
+Tennessee,47001,Anderson,2024,36027,Marsha Blackburn,Republican,23718,65.8
+Tennessee,47003,Bedford,2024,19580,Marsha Blackburn,Republican,15098,77.1
+Tennessee,47005,Benton,2024,7090,Marsha Blackburn,Republican,5653,79.7
+Tennessee,47007,Bledsoe,2024,6061,Marsha Blackburn,Republican,5061,83.5
+Tennessee,47009,Blount,2024,68454,Marsha Blackburn,Republican,49551,72.4
+Tennessee,47011,Bradley,2024,48145,Marsha Blackburn,Republican,37622,78.1
+Tennessee,47013,Campbell,2024,15034,Marsha Blackburn,Republican,12250,81.5
+Tennessee,47015,Cannon,2024,6609,Marsha Blackburn,Republican,5308,80.3
+Tennessee,47017,Carroll,2024,11655,Marsha Blackburn,Republican,9446,81
+Tennessee,47019,Carter,2024,24216,Marsha Blackburn,Republican,19687,81.3
+Tennessee,47021,Cheatham,2024,20495,Marsha Blackburn,Republican,14518,70.8
+Tennessee,47023,Chester,2024,7445,Marsha Blackburn,Republican,6169,82.9
+Tennessee,47025,Claiborne,2024,13196,Marsha Blackburn,Republican,10885,82.5
+Tennessee,47027,Clay,2024,3551,Marsha Blackburn,Republican,2900,81.7
+Tennessee,47029,Cocke,2024,15223,Marsha Blackburn,Republican,12471,81.9
+Tennessee,47031,Coffee,2024,24481,Marsha Blackburn,Republican,18463,75.4
+Tennessee,47033,Crockett,2024,5738,Marsha Blackburn,Republican,4530,78.9
+Tennessee,47035,Cumberland,2024,33718,Marsha Blackburn,Republican,26427,78.4
+Tennessee,47037,Davidson,2024,285401,Gloria Johnson,Democrat,179312,62.8
+Tennessee,47039,Decatur,2024,5318,Marsha Blackburn,Republican,4410,82.9
+Tennessee,47041,Dekalb,2024,9035,Marsha Blackburn,Republican,7137,79
+Tennessee,47043,Dickson,2024,24701,Marsha Blackburn,Republican,18149,73.5
+Tennessee,47045,Dyer,2024,13859,Marsha Blackburn,Republican,11050,79.7
+Tennessee,47047,Fayette,2024,23081,Marsha Blackburn,Republican,16600,71.9
+Tennessee,47049,Fentress,2024,9417,Marsha Blackburn,Republican,8064,85.6
+Tennessee,47051,Franklin,2024,19274,Marsha Blackburn,Republican,14437,74.9
+Tennessee,47053,Gibson,2024,20886,Marsha Blackburn,Republican,16078,77
+Tennessee,47055,Giles,2024,13138,Marsha Blackburn,Republican,10027,76.3
+Tennessee,47057,Grainger,2024,10909,Marsha Blackburn,Republican,9226,84.6
+Tennessee,47059,Greene,2024,30559,Marsha Blackburn,Republican,25157,82.3
+Tennessee,47061,Grundy,2024,6029,Marsha Blackburn,Republican,4931,81.8
+Tennessee,47063,Hamblen,2024,24977,Marsha Blackburn,Republican,19382,77.6
+Tennessee,47065,Hamilton,2024,173117,Marsha Blackburn,Republican,97475,56.3
+Tennessee,47067,Hancock,2024,2754,Marsha Blackburn,Republican,2365,85.9
+Tennessee,47069,Hardeman,2024,9121,Marsha Blackburn,Republican,5731,62.8
+Tennessee,47071,Hardin,2024,11724,Marsha Blackburn,Republican,9945,84.8
+Tennessee,47073,Hawkins,2024,25399,Marsha Blackburn,Republican,21209,83.5
+Tennessee,47075,Haywood,2024,6511,Marsha Blackburn,Republican,3269,50.2
+Tennessee,47077,Henderson,2024,11880,Marsha Blackburn,Republican,9994,84.1
+Tennessee,47079,Henry,2024,14419,Marsha Blackburn,Republican,11048,76.6
+Tennessee,47081,Hickman,2024,10197,Marsha Blackburn,Republican,8055,79
+Tennessee,47083,Houston,2024,3684,Marsha Blackburn,Republican,2814,76.4
+Tennessee,47085,Humphreys,2024,8119,Marsha Blackburn,Republican,6153,75.8
+Tennessee,47087,Jackson,2024,5468,Marsha Blackburn,Republican,4279,78.3
+Tennessee,47089,Jefferson,2024,25333,Marsha Blackburn,Republican,20239,79.9
+Tennessee,47091,Johnson,2024,7849,Marsha Blackburn,Republican,6666,84.9
+Tennessee,47093,Knox,2024,221561,Marsha Blackburn,Republican,129275,58.3
+Tennessee,47095,Lake,2024,1830,Marsha Blackburn,Republican,1414,77.3
+Tennessee,47097,Lauderdale,2024,7901,Marsha Blackburn,Republican,5434,68.8
+Tennessee,47099,Lawrence,2024,18915,Marsha Blackburn,Republican,15484,81.9
+Tennessee,47101,Lewis,2024,5749,Marsha Blackburn,Republican,4613,80.2
+Tennessee,47103,Lincoln,2024,15613,Marsha Blackburn,Republican,12744,81.6
+Tennessee,47105,Loudon,2024,32792,Marsha Blackburn,Republican,24848,75.8
+Tennessee,47107,Mcminn,2024,23642,Marsha Blackburn,Republican,18934,80.1
+Tennessee,47109,Mcnairy,2024,11000,Marsha Blackburn,Republican,9155,83.2
+Tennessee,47111,Macon,2024,9848,Marsha Blackburn,Republican,8342,84.7
+Tennessee,47113,Madison,2024,39166,Marsha Blackburn,Republican,23578,60.2
+Tennessee,47115,Marion,2024,13646,Marsha Blackburn,Republican,10314,75.6
+Tennessee,47117,Marshall,2024,15596,Marsha Blackburn,Republican,11916,76.4
+Tennessee,47119,Maury,2024,51623,Marsha Blackburn,Republican,36665,71
+Tennessee,47121,Meigs,2024,5904,Marsha Blackburn,Republican,4810,81.5
+Tennessee,47123,Monroe,2024,21902,Marsha Blackburn,Republican,17759,81.1
+Tennessee,47125,Montgomery,2024,79003,Marsha Blackburn,Republican,46104,58.4
+Tennessee,47127,Moore,2024,3586,Marsha Blackburn,Republican,2954,82.4
+Tennessee,47129,Morgan,2024,8437,Marsha Blackburn,Republican,7090,84
+Tennessee,47131,Obion,2024,12598,Marsha Blackburn,Republican,10378,82.4
+Tennessee,47133,Overton,2024,10594,Marsha Blackburn,Republican,8413,79.4
+Tennessee,47135,Perry,2024,3540,Marsha Blackburn,Republican,2906,82.1
+Tennessee,47137,Pickett,2024,2883,Marsha Blackburn,Republican,2306,80
+Tennessee,47139,Polk,2024,8601,Marsha Blackburn,Republican,7041,81.9
+Tennessee,47141,Putnam,2024,34168,Marsha Blackburn,Republican,24520,71.8
+Tennessee,47143,Rhea,2024,14129,Marsha Blackburn,Republican,11553,81.8
+Tennessee,47145,Roane,2024,26982,Marsha Blackburn,Republican,20207,74.9
+Tennessee,47147,Robertson,2024,34294,Marsha Blackburn,Republican,25146,73.3
+Tennessee,47149,Rutherford,2024,145113,Marsha Blackburn,Republican,86026,59.3
+Tennessee,47151,Scott,2024,9146,Marsha Blackburn,Republican,7924,86.6
+Tennessee,47153,Sequatchie,2024,7689,Marsha Blackburn,Republican,6253,81.3
+Tennessee,47155,Sevier,2024,43270,Marsha Blackburn,Republican,34101,78.8
+Tennessee,47157,Shelby,2024,319094,Gloria Johnson,Democrat,189954,59.5
+Tennessee,47159,Smith,2024,9008,Marsha Blackburn,Republican,7255,80.5
+Tennessee,47161,Stewart,2024,6445,Marsha Blackburn,Republican,5201,80.7
+Tennessee,47163,Sullivan,2024,74902,Marsha Blackburn,Republican,57989,77.4
+Tennessee,47165,Sumner,2024,95572,Marsha Blackburn,Republican,66413,69.5
+Tennessee,47167,Tipton,2024,26003,Marsha Blackburn,Republican,19625,75.5
+Tennessee,47169,Trousdale,2024,4010,Marsha Blackburn,Republican,3079,76.8
+Tennessee,47171,Unicoi,2024,8313,Marsha Blackburn,Republican,6754,81.2
+Tennessee,47173,Union,2024,8279,Marsha Blackburn,Republican,6834,82.5
+Tennessee,47175,Van Buren,2024,3144,Marsha Blackburn,Republican,2533,80.6
+Tennessee,47177,Warren,2024,16329,Marsha Blackburn,Republican,12287,75.2
+Tennessee,47179,Washington,2024,60237,Marsha Blackburn,Republican,42160,70
+Tennessee,47181,Wayne,2024,6565,Marsha Blackburn,Republican,5690,86.7
+Tennessee,47183,Weakley,2024,13107,Marsha Blackburn,Republican,10375,79.2
+Tennessee,47185,White,2024,12736,Marsha Blackburn,Republican,10316,81
+Tennessee,47187,Williamson,2024,144134,Marsha Blackburn,Republican,94791,65.8
+Tennessee,47189,Wilson,2024,80132,Marsha Blackburn,Republican,54895,68.5
+Texas,48001,Anderson,2024,19211,Cruz,Republican,15022,78.2
+Texas,48003,Andrews,2024,5972,Cruz,Republican,4976,83.3
+Texas,48005,Angelina,2024,34063,Cruz,Republican,24994,73.4
+Texas,48007,Aransas,2024,12956,Cruz,Republican,9605,74.1
+Texas,48009,Archer,2024,5109,Cruz,Republican,4483,87.7
+Texas,48011,Armstrong,2024,1112,Cruz,Republican,1001,90
+Texas,48013,Atascosa,2024,18157,Cruz,Republican,11973,65.9
+Texas,48015,Austin,2024,15287,Cruz,Republican,11981,78.4
+Texas,48017,Bailey,2024,1713,Cruz,Republican,1352,78.9
+Texas,48019,Bandera,2024,13530,Cruz,Republican,10472,77.4
+Texas,48021,Bastrop,2024,39436,Cruz,Republican,21835,55.4
+Texas,48023,Baylor,2024,1669,Cruz,Republican,1431,85.7
+Texas,48025,Bee,2024,8672,Cruz,Republican,5639,65
+Texas,48027,Bell,2024,129340,Cruz,Republican,70468,54.5
+Texas,48029,Bexar,2024,743939,Allred,Democrat,422903,56.8
+Texas,48031,Blanco,2024,8494,Cruz,Republican,6243,73.5
+Texas,48033,Borden,2024,383,Cruz,Republican,366,95.6
+Texas,48035,Bosque,2024,9553,Cruz,Republican,7643,80
+Texas,48037,Bowie,2024,36191,Cruz,Republican,26219,72.4
+Texas,48039,Brazoria,2024,161446,Cruz,Republican,90208,55.9
+Texas,48041,Brazos,2024,91745,Cruz,Republican,54153,59
+Texas,48043,Brewster,2024,4544,Cruz,Republican,2422,53.3
+Texas,48045,Briscoe,2024,743,Cruz,Republican,649,87.3
+Texas,48047,Brooks,2024,2302,Allred,Democrat,1379,59.9
+Texas,48049,Brown,2024,16777,Cruz,Republican,14106,84.1
+Texas,48051,Burleson,2024,9318,Cruz,Republican,7325,78.6
+Texas,48053,Burnet,2024,28086,Cruz,Republican,21056,75
+Texas,48055,Caldwell,2024,15540,Cruz,Republican,8227,52.9
+Texas,48057,Calhoun,2024,7758,Cruz,Republican,5603,72.2
+Texas,48059,Callahan,2024,6976,Cruz,Republican,5973,85.6
+Texas,48061,Cameron,2024,114499,Allred,Democrat,58330,50.9
+Texas,48063,Camp,2024,5226,Cruz,Republican,3894,74.5
+Texas,48065,Carson,2024,3147,Cruz,Republican,2755,87.5
+Texas,48067,Cass,2024,14117,Cruz,Republican,11477,81.3
+Texas,48069,Castro,2024,1984,Cruz,Republican,1530,77.1
+Texas,48071,Chambers,2024,24862,Cruz,Republican,19735,79.4
+Texas,48073,Cherokee,2024,20393,Cruz,Republican,16065,78.8
+Texas,48075,Childress,2024,2244,Cruz,Republican,1919,85.5
+Texas,48077,Clay,2024,5879,Cruz,Republican,5128,87.2
+Texas,48079,Cochran,2024,880,Cruz,Republican,706,80.2
+Texas,48081,Coke,2024,1804,Cruz,Republican,1567,86.9
+Texas,48083,Coleman,2024,4122,Cruz,Republican,3585,87
+Texas,48085,Collin,2024,511133,Cruz,Republican,263381,51.5
+Texas,48087,Collingsworth,2024,1192,Cruz,Republican,1039,87.2
+Texas,48089,Colorado,2024,9919,Cruz,Republican,7554,76.2
+Texas,48091,Comal,2024,103324,Cruz,Republican,71757,69.4
+Texas,48093,Comanche,2024,6506,Cruz,Republican,5435,83.5
+Texas,48095,Concho,2024,1184,Cruz,Republican,989,83.5
+Texas,48097,Cooke,2024,20299,Cruz,Republican,16284,80.2
+Texas,48099,Coryell,2024,23686,Cruz,Republican,15708,66.3
+Texas,48101,Cottle,2024,643,Cruz,Republican,544,84.6
+Texas,48103,Crane,2024,1335,Cruz,Republican,1115,83.5
+Texas,48105,Crockett,2024,1372,Cruz,Republican,1008,73.5
+Texas,48107,Crosby,2024,1860,Cruz,Republican,1370,73.7
+Texas,48109,Culberson,2024,745,Cruz,Republican,394,52.9
+Texas,48111,Dallam,2024,1425,Cruz,Republican,1229,86.2
+Texas,48113,Dallas,2024,842122,Allred,Democrat,531111,63.1
+Texas,48115,Dawson,2024,3455,Cruz,Republican,2686,77.7
+Texas,48117,Deaf Smith,2024,4225,Cruz,Republican,3113,73.7
+Texas,48119,Delta,2024,2655,Cruz,Republican,2158,81.3
+Texas,48121,Denton,2024,448459,Cruz,Republican,237978,53.1
+Texas,48123,Dewitt,2024,7750,Cruz,Republican,6240,80.5
+Texas,48125,Dickens,2024,983,Cruz,Republican,817,83.1
+Texas,48127,Dimmit,2024,3224,Allred,Democrat,1835,56.9
+Texas,48129,Donley,2024,1670,Cruz,Republican,1453,87
+Texas,48131,Duval,2024,4163,Allred,Democrat,2180,52.4
+Texas,48133,Eastland,2024,8297,Cruz,Republican,7131,85.9
+Texas,48135,Ector,2024,42325,Cruz,Republican,30766,72.7
+Texas,48137,Edwards,2024,974,Cruz,Republican,800,82.1
+Texas,48139,Ellis,2024,98775,Cruz,Republican,61020,61.8
+Texas,48141,El Paso,2024,244897,Allred,Democrat,141826,57.9
+Texas,48143,Erath,2024,18178,Cruz,Republican,14672,80.7
+Texas,48145,Falls,2024,6266,Cruz,Republican,4351,69.4
+Texas,48147,Fannin,2024,16338,Cruz,Republican,13084,80.1
+Texas,48149,Fayette,2024,13282,Cruz,Republican,10408,78.4
+Texas,48151,Fisher,2024,1811,Cruz,Republican,1420,78.4
+Texas,48153,Floyd,2024,2070,Cruz,Republican,1617,78.1
+Texas,48155,Foard,2024,538,Cruz,Republican,438,81.4
+Texas,48157,Fort Bend,2024,356039,Allred,Democrat,186710,52.4
+Texas,48159,Franklin,2024,5276,Cruz,Republican,4349,82.4
+Texas,48161,Freestone,2024,8968,Cruz,Republican,7206,80.4
+Texas,48163,Frio,2024,4717,Cruz,Republican,2567,54.4
+Texas,48165,Gaines,2024,6367,Cruz,Republican,5700,89.5
+Texas,48167,Galveston,2024,158392,Cruz,Republican,95114,60
+Texas,48169,Garza,2024,1568,Cruz,Republican,1318,84.1
+Texas,48171,Gillespie,2024,16511,Cruz,Republican,12881,78
+Texas,48173,Glasscock,2024,660,Cruz,Republican,616,93.3
+Texas,48175,Goliad,2024,3936,Cruz,Republican,3016,76.6
+Texas,48177,Gonzales,2024,7634,Cruz,Republican,5607,73.4
+Texas,48179,Gray,2024,7520,Cruz,Republican,6489,86.3
+Texas,48181,Grayson,2024,65276,Cruz,Republican,48504,74.3
+Texas,48183,Gregg,2024,46505,Cruz,Republican,31862,68.5
+Texas,48185,Grimes,2024,13991,Cruz,Republican,10830,77.4
+Texas,48187,Guadalupe,2024,84087,Cruz,Republican,50972,60.6
+Texas,48189,Hale,2024,9195,Cruz,Republican,6941,75.5
+Texas,48191,Hall,2024,1131,Cruz,Republican,957,84.6
+Texas,48193,Hamilton,2024,4470,Cruz,Republican,3699,82.8
+Texas,48195,Hansford,2024,1979,Cruz,Republican,1802,91.1
+Texas,48197,Hardeman,2024,1398,Cruz,Republican,1163,83.2
+Texas,48199,Hardin,2024,28068,Cruz,Republican,23992,85.5
+Texas,48201,Harris,2024,1548914,Allred,Democrat,841784,54.3
+Texas,48203,Harrison,2024,30079,Cruz,Republican,22137,73.6
+Texas,48205,Hartley,2024,2005,Cruz,Republican,1817,90.6
+Texas,48207,Haskell,2024,2225,Cruz,Republican,1823,81.9
+Texas,48209,Hays,2024,125576,Allred,Democrat,67475,53.7
+Texas,48211,Hemphill,2024,1600,Cruz,Republican,1380,86.2
+Texas,48213,Henderson,2024,38217,Cruz,Republican,30046,78.6
+Texas,48215,Hidalgo,2024,211622,Allred,Democrat,110139,52
+Texas,48217,Hill,2024,16658,Cruz,Republican,13104,78.7
+Texas,48219,Hockley,2024,7955,Cruz,Republican,6437,80.9
+Texas,48221,Hood,2024,36439,Cruz,Republican,29107,79.9
+Texas,48223,Hopkins,2024,16705,Cruz,Republican,13269,79.4
+Texas,48225,Houston,2024,9285,Cruz,Republican,7033,75.7
+Texas,48227,Howard,2024,9511,Cruz,Republican,7388,77.7
+Texas,48229,Hudspeth,2024,1006,Cruz,Republican,694,69
+Texas,48231,Hunt,2024,46409,Cruz,Republican,34351,74
+Texas,48233,Hutchinson,2024,8168,Cruz,Republican,7047,86.3
+Texas,48235,Irion,2024,867,Cruz,Republican,732,84.4
+Texas,48237,Jack,2024,4181,Cruz,Republican,3689,88.2
+Texas,48239,Jackson,2024,6271,Cruz,Republican,5197,82.9
+Texas,48241,Jasper,2024,15745,Cruz,Republican,12842,81.6
+Texas,48243,Jeff Davis,2024,1155,Cruz,Republican,671,58.1
+Texas,48245,Jefferson,2024,84931,Cruz,Republican,43888,51.7
+Texas,48247,Jim Hogg,2024,1519,Allred,Democrat,917,60.4
+Texas,48249,Jim Wells,2024,12960,Cruz,Republican,6773,52.3
+Texas,48251,Johnson,2024,80310,Cruz,Republican,57382,71.5
+Texas,48253,Jones,2024,6901,Cruz,Republican,5729,83
+Texas,48255,Karnes,2024,5010,Cruz,Republican,3743,74.7
+Texas,48257,Kaufman,2024,68817,Cruz,Republican,41177,59.8
+Texas,48259,Kendall,2024,29277,Cruz,Republican,22068,75.4
+Texas,48261,Kenedy,2024,144,Cruz,Republican,92,63.9
+Texas,48263,Kent,2024,448,Cruz,Republican,383,85.5
+Texas,48265,Kerr,2024,28122,Cruz,Republican,20840,74.1
+Texas,48267,Kimble,2024,2379,Cruz,Republican,2039,85.7
+Texas,48269,King,2024,134,Cruz,Republican,129,96.3
+Texas,48271,Kinney,2024,1385,Cruz,Republican,969,70
+Texas,48273,Kleberg,2024,9895,Cruz,Republican,5049,51
+Texas,48275,Knox,2024,1364,Cruz,Republican,1096,80.4
+Texas,48277,Lamar,2024,21106,Cruz,Republican,16454,78
+Texas,48279,Lamb,2024,4111,Cruz,Republican,3285,79.9
+Texas,48281,Lampasas,2024,11183,Cruz,Republican,8606,77
+Texas,48283,La Salle,2024,2112,Cruz,Republican,1088,51.5
+Texas,48285,Lavaca,2024,10418,Cruz,Republican,8915,85.6
+Texas,48287,Lee,2024,8362,Cruz,Republican,6505,77.8
+Texas,48289,Leon,2024,9008,Cruz,Republican,7734,85.9
+Texas,48291,Liberty,2024,31063,Cruz,Republican,23983,77.2
+Texas,48293,Limestone,2024,9009,Cruz,Republican,6821,75.7
+Texas,48295,Lipscomb,2024,1248,Cruz,Republican,1094,87.7
+Texas,48297,Live Oak,2024,5062,Cruz,Republican,4165,82.3
+Texas,48299,Llano,2024,13623,Cruz,Republican,10698,78.5
+Texas,48301,Loving,2024,95,Cruz,Republican,75,78.9
+Texas,48303,Lubbock,2024,124469,Cruz,Republican,83643,67.2
+Texas,48305,Lynn,2024,2519,Cruz,Republican,2113,83.9
+Texas,48307,Mcculloch,2024,3498,Cruz,Republican,2938,84
+Texas,48309,Mclennan,2024,99777,Cruz,Republican,62054,62.2
+Texas,48311,Mcmullen,2024,476,Cruz,Republican,423,88.9
+Texas,48313,Madison,2024,5443,Cruz,Republican,4336,79.7
+Texas,48315,Marion,2024,4694,Cruz,Republican,3509,74.8
+Texas,48317,Martin,2024,2067,Cruz,Republican,1756,85
+Texas,48319,Mason,2024,2507,Cruz,Republican,2027,80.9
+Texas,48321,Matagorda,2024,13209,Cruz,Republican,9482,71.8
+Texas,48323,Maverick,2024,14732,Cruz,Republican,7287,49.5
+Texas,48325,Medina,2024,24457,Cruz,Republican,16508,67.5
+Texas,48327,Menard,2024,1036,Cruz,Republican,824,79.5
+Texas,48329,Midland,2024,58182,Cruz,Republican,45032,77.4
+Texas,48331,Milam,2024,11036,Cruz,Republican,8347,75.6
+Texas,48333,Mills,2024,2730,Cruz,Republican,2343,85.8
+Texas,48335,Mitchell,2024,2473,Cruz,Republican,2059,83.3
+Texas,48337,Montague,2024,11024,Cruz,Republican,9489,86.1
+Texas,48339,Montgomery,2024,306517,Cruz,Republican,213797,69.8
+Texas,48341,Moore,2024,5248,Cruz,Republican,4186,79.8
+Texas,48343,Morris,2024,5390,Cruz,Republican,3958,73.4
+Texas,48345,Motley,2024,642,Cruz,Republican,592,92.2
+Texas,48347,Nacogdoches,2024,25477,Cruz,Republican,17072,67
+Texas,48349,Navarro,2024,19798,Cruz,Republican,14327,72.4
+Texas,48351,Newton,2024,5691,Cruz,Republican,4650,81.7
+Texas,48353,Nolan,2024,5039,Cruz,Republican,3808,75.6
+Texas,48355,Nueces,2024,120459,Cruz,Republican,62062,51.5
+Texas,48357,Ochiltree,2024,2996,Cruz,Republican,2669,89.1
+Texas,48359,Oldham,2024,961,Cruz,Republican,862,89.7
+Texas,48361,Orange,2024,35953,Cruz,Republican,29050,80.8
+Texas,48363,Palo Pinto,2024,13243,Cruz,Republican,10611,80.1
+Texas,48365,Panola,2024,11361,Cruz,Republican,9281,81.7
+Texas,48367,Parker,2024,90726,Cruz,Republican,72477,79.9
+Texas,48369,Parmer,2024,2474,Cruz,Republican,2060,83.3
+Texas,48371,Pecos,2024,4142,Cruz,Republican,2817,68
+Texas,48373,Polk,2024,24143,Cruz,Republican,18596,77
+Texas,48375,Potter,2024,31890,Cruz,Republican,22109,69.3
+Texas,48377,Presidio,2024,1938,Allred,Democrat,1247,64.3
+Texas,48379,Rains,2024,6528,Cruz,Republican,5450,83.5
+Texas,48381,Randall,2024,66889,Cruz,Republican,51991,77.7
+Texas,48383,Reagan,2024,936,Cruz,Republican,764,81.6
+Texas,48385,Real,2024,1949,Cruz,Republican,1574,80.8
+Texas,48387,Red River,2024,5737,Cruz,Republican,4498,78.4
+Texas,48389,Reeves,2024,3288,Cruz,Republican,2034,61.9
+Texas,48391,Refugio,2024,3031,Cruz,Republican,2004,66.1
+Texas,48393,Roberts,2024,571,Cruz,Republican,542,94.9
+Texas,48395,Robertson,2024,8124,Cruz,Republican,5982,73.6
+Texas,48397,Rockwall,2024,62319,Cruz,Republican,41726,67
+Texas,48399,Runnels,2024,4027,Cruz,Republican,3430,85.2
+Texas,48401,Rusk,2024,21490,Cruz,Republican,16646,77.5
+Texas,48403,Sabine,2024,5540,Cruz,Republican,4864,87.8
+Texas,48405,San Augustine,2024,3707,Cruz,Republican,2834,76.4
+Texas,48407,San Jacinto,2024,12710,Cruz,Republican,10118,79.6
+Texas,48409,San Patricio,2024,25321,Cruz,Republican,16116,63.6
+Texas,48411,San Saba,2024,2689,Cruz,Republican,2314,86.1
+Texas,48413,Schleicher,2024,1098,Cruz,Republican,872,79.4
+Texas,48415,Scurry,2024,5631,Cruz,Republican,4683,83.2
+Texas,48417,Shackelford,2024,1713,Cruz,Republican,1520,88.7
+Texas,48419,Shelby,2024,9876,Cruz,Republican,8022,81.2
+Texas,48421,Sherman,2024,887,Cruz,Republican,791,89.2
+Texas,48423,Smith,2024,103228,Cruz,Republican,72205,69.9
+Texas,48425,Somervell,2024,5276,Cruz,Republican,4298,81.5
+Texas,48427,Starr,2024,14182,Cruz,Republican,7081,49.9
+Texas,48429,Stephens,2024,3727,Cruz,Republican,3216,86.3
+Texas,48431,Sterling,2024,624,Cruz,Republican,553,88.6
+Texas,48433,Stonewall,2024,709,Cruz,Republican,580,81.8
+Texas,48435,Sutton,2024,1389,Cruz,Republican,1129,81.3
+Texas,48437,Swisher,2024,2233,Cruz,Republican,1744,78.1
+Texas,48439,Tarrant,2024,821473,Allred,Democrat,401742,48.9
+Texas,48441,Taylor,2024,55252,Cruz,Republican,39509,71.5
+Texas,48443,Terrell,2024,400,Cruz,Republican,301,75.2
+Texas,48445,Terry,2024,3347,Cruz,Republican,2663,79.6
+Texas,48447,Throckmorton,2024,890,Cruz,Republican,801,90
+Texas,48449,Titus,2024,10127,Cruz,Republican,7545,74.5
+Texas,48451,Tom Green,2024,45170,Cruz,Republican,31686,70.1
+Texas,48453,Travis,2024,578284,Allred,Democrat,407198,70.4
+Texas,48455,Trinity,2024,7318,Cruz,Republican,5897,80.6
+Texas,48457,Tyler,2024,9551,Cruz,Republican,8039,84.2
+Texas,48459,Upshur,2024,19839,Cruz,Republican,16451,82.9
+Texas,48461,Upton,2024,1264,Cruz,Republican,1069,84.6
+Texas,48463,Uvalde,2024,9619,Cruz,Republican,5848,60.8
+Texas,48465,Val Verde,2024,14293,Cruz,Republican,8071,56.5
+Texas,48467,Van Zandt,2024,27927,Cruz,Republican,23626,84.6
+Texas,48469,Victoria,2024,34828,Cruz,Republican,24002,68.9
+Texas,48471,Walker,2024,24978,Cruz,Republican,16775,67.2
+Texas,48473,Waller,2024,27442,Cruz,Republican,16385,59.7
+Texas,48475,Ward,2024,3727,Cruz,Republican,2931,78.6
+Texas,48477,Washington,2024,18140,Cruz,Republican,13586,74.9
+Texas,48479,Webb,2024,63737,Allred,Democrat,33794,53
+Texas,48481,Wharton,2024,16323,Cruz,Republican,11915,73
+Texas,48483,Wheeler,2024,2253,Cruz,Republican,2025,89.9
+Texas,48485,Wichita,2024,44257,Cruz,Republican,30711,69.4
+Texas,48487,Wilbarger,2024,4433,Cruz,Republican,3419,77.1
+Texas,48489,Willacy,2024,5415,Allred,Democrat,2892,53.4
+Texas,48491,Williamson,2024,305936,Allred,Democrat,151076,49.4
+Texas,48493,Wilson,2024,27129,Cruz,Republican,19783,72.9
+Texas,48495,Winkler,2024,1891,Cruz,Republican,1560,82.5
+Texas,48497,Wise,2024,38140,Cruz,Republican,31060,81.4
+Texas,48499,Wood,2024,24324,Cruz,Republican,20129,82.8
+Texas,48501,Yoakum,2024,2341,Cruz,Republican,1928,82.4
+Texas,48503,Young,2024,8271,Cruz,Republican,7088,85.7
+Texas,48505,Zapata,2024,4265,Cruz,Republican,2197,51.5
+Texas,48507,Zavala,2024,3267,Allred,Democrat,1994,61
+Virginia,51001,Accomack,2024,17037,Hung Cao,Republican,9339,54.8
+Virginia,51003,Albemarle,2024,65956,Timothy M Kaine,Democrat,43968,66.7
+Virginia,51005,Alleghany,2024,8157,Hung Cao,Republican,5358,65.7
+Virginia,51007,Amelia,2024,7920,Hung Cao,Republican,5600,70.7
+Virginia,51009,Amherst,2024,17224,Hung Cao,Republican,11414,66.3
+Virginia,51011,Appomattox,2024,9495,Hung Cao,Republican,6923,72.9
+Virginia,51013,Arlington,2024,128359,Timothy M Kaine,Democrat,100725,78.5
+Virginia,51015,Augusta,2024,44183,Hung Cao,Republican,31605,71.5
+Virginia,51017,Bath,2024,2566,Hung Cao,Republican,1881,73.3
+Virginia,51019,Bedford,2024,50656,Hung Cao,Republican,37536,74.1
+Virginia,51021,Bland,2024,3418,Hung Cao,Republican,2707,79.2
+Virginia,51023,Botetourt,2024,21582,Hung Cao,Republican,14950,69.3
+Virginia,51025,Brunswick,2024,7702,Timothy M Kaine,Democrat,4324,56.1
+Virginia,51027,Buchanan,2024,9033,Hung Cao,Republican,6686,74
+Virginia,51029,Buckingham,2024,7832,Hung Cao,Republican,4581,58.5
+Virginia,51031,Campbell,2024,31014,Hung Cao,Republican,22449,72.4
+Virginia,51033,Caroline,2024,17485,Hung Cao,Republican,9218,52.7
+Virginia,51035,Carroll,2024,15969,Hung Cao,Republican,12318,77.1
+Virginia,51036,Charles City,2024,4203,Timothy M Kaine,Democrat,2397,57
+Virginia,51037,Charlotte,2024,5966,Hung Cao,Republican,3815,63.9
+Virginia,51041,Chesterfield,2024,208979,Timothy M Kaine,Democrat,115364,55.2
+Virginia,51043,Clarke,2024,9677,Hung Cao,Republican,5487,56.7
+Virginia,51045,Craig,2024,3088,Hung Cao,Republican,2415,78.2
+Virginia,51047,Culpeper,2024,28340,Hung Cao,Republican,17105,60.4
+Virginia,51049,Cumberland,2024,5425,Hung Cao,Republican,3256,60
+Virginia,51051,Dickenson,2024,6830,Hung Cao,Republican,4884,71.5
+Virginia,51053,Dinwiddie,2024,15516,Hung Cao,Republican,9163,59.1
+Virginia,51057,Essex,2024,5938,Hung Cao,Republican,3072,51.7
+Virginia,51059,Fairfax,2024,582104,Timothy M Kaine,Democrat,393906,67.7
+Virginia,51061,Fauquier,2024,44463,Hung Cao,Republican,26971,60.7
+Virginia,51063,Floyd,2024,9565,Hung Cao,Republican,6251,65.4
+Virginia,51065,Fluvanna,2024,16597,Hung Cao,Republican,8581,51.7
+Virginia,51067,Franklin,2024,30720,Hung Cao,Republican,21569,70.2
+Virginia,51069,Frederick,2024,51490,Hung Cao,Republican,31659,61.5
+Virginia,51071,Giles,2024,9041,Hung Cao,Republican,6435,71.2
+Virginia,51073,Gloucester,2024,22934,Hung Cao,Republican,15391,67.1
+Virginia,51075,Goochland,2024,19625,Hung Cao,Republican,11655,59.4
+Virginia,51077,Grayson,2024,7944,Hung Cao,Republican,6045,76.1
+Virginia,51079,Greene,2024,11940,Hung Cao,Republican,7193,60.2
+Virginia,51081,Greensville,2024,4195,Timothy M Kaine,Democrat,2416,57.6
+Virginia,51083,Halifax,2024,17655,Hung Cao,Republican,10218,57.9
+Virginia,51085,Hanover,2024,71987,Hung Cao,Republican,44715,62.1
+Virginia,51087,Henrico,2024,177738,Timothy M Kaine,Democrat,116336,65.5
+Virginia,51089,Henry,2024,25052,Hung Cao,Republican,15426,61.6
+Virginia,51091,Highland,2024,1510,Hung Cao,Republican,1012,67
+Virginia,51093,Isle of Wight,2024,24475,Hung Cao,Republican,14163,57.9
+Virginia,51095,James City,2024,51092,Timothy M Kaine,Democrat,26991,52.8
+Virginia,51097,King and Queen,2024,4143,Hung Cao,Republican,2513,60.7
+Virginia,51099,King George,2024,15318,Hung Cao,Republican,9459,61.8
+Virginia,51101,King William,2024,11347,Hung Cao,Republican,7678,67.7
+Virginia,51103,Lancaster,2024,7258,Hung Cao,Republican,3888,53.6
+Virginia,51105,Lee,2024,9778,Hung Cao,Republican,7452,76.2
+Virginia,51107,Loudoun,2024,227737,Timothy M Kaine,Democrat,133436,58.6
+Virginia,51109,Louisa,2024,23872,Hung Cao,Republican,14726,61.7
+Virginia,51111,Lunenburg,2024,5672,Hung Cao,Republican,3324,58.6
+Virginia,51113,Madison,2024,8388,Hung Cao,Republican,5546,66.1
+Virginia,51115,Mathews,2024,5896,Hung Cao,Republican,4015,68.1
+Virginia,51117,Mecklenburg,2024,15892,Hung Cao,Republican,9170,57.7
+Virginia,51119,Middlesex,2024,6838,Hung Cao,Republican,4265,62.4
+Virginia,51121,Montgomery,2024,46719,Timothy M Kaine,Democrat,25037,53.6
+Virginia,51125,Nelson,2024,9385,Hung Cao,Republican,4849,51.7
+Virginia,51127,New Kent,2024,16405,Hung Cao,Republican,10695,65.2
+Virginia,51131,Northampton,2024,6742,Timothy M Kaine,Democrat,3687,54.7
+Virginia,51133,Northumberland,2024,8172,Hung Cao,Republican,4912,60.1
+Virginia,51135,Nottoway,2024,6810,Hung Cao,Republican,4000,58.7
+Virginia,51137,Orange,2024,22057,Hung Cao,Republican,13289,60.2
+Virginia,51139,Page,2024,12993,Hung Cao,Republican,9354,72
+Virginia,51141,Patrick,2024,9405,Hung Cao,Republican,7005,74.5
+Virginia,51143,Pittsylvania,2024,33290,Hung Cao,Republican,22725,68.3
+Virginia,51145,Powhatan,2024,20809,Hung Cao,Republican,14844,71.3
+Virginia,51147,Prince Edward,2024,9198,Timothy M Kaine,Democrat,4617,50.2
+Virginia,51149,Prince George,2024,17071,Hung Cao,Republican,10010,58.6
+Virginia,51153,Prince William,2024,225081,Timothy M Kaine,Democrat,137060,60.9
+Virginia,51155,Pulaski,2024,17414,Hung Cao,Republican,11743,67.4
+Virginia,51157,Rappahannock,2024,5016,Hung Cao,Republican,2947,58.8
+Virginia,51159,Richmond,2024,4113,Hung Cao,Republican,2550,62
+Virginia,51161,Roanoke,2024,56657,Hung Cao,Republican,33609,59.3
+Virginia,51163,Rockbridge,2024,12738,Hung Cao,Republican,8199,64.4
+Virginia,51165,Rockingham,2024,48342,Hung Cao,Republican,32081,66.4
+Virginia,51167,Russell,2024,13229,Hung Cao,Republican,9885,74.7
+Virginia,51169,Scott,2024,10810,Hung Cao,Republican,8359,77.3
+Virginia,51171,Shenandoah,2024,24101,Hung Cao,Republican,16097,66.8
+Virginia,51173,Smyth,2024,14244,Hung Cao,Republican,10339,72.6
+Virginia,51175,Southampton,2024,9725,Hung Cao,Republican,5801,59.7
+Virginia,51177,Spotsylvania,2024,78644,Hung Cao,Republican,41199,52.4
+Virginia,51179,Stafford,2024,82507,Timothy M Kaine,Democrat,42603,51.6
+Virginia,51181,Surry,2024,4341,Timothy M Kaine,Democrat,2232,51.4
+Virginia,51183,Sussex,2024,4836,Timothy M Kaine,Democrat,2605,53.9
+Virginia,51185,Tazewell,2024,19079,Hung Cao,Republican,14096,73.9
+Virginia,51187,Warren,2024,22342,Hung Cao,Republican,14771,66.1
+Virginia,51191,Washington,2024,29167,Hung Cao,Republican,20851,71.5
+Virginia,51193,Westmoreland,2024,10401,Hung Cao,Republican,5615,54
+Virginia,51195,Wise,2024,16316,Hung Cao,Republican,11802,72.3
+Virginia,51197,Wythe,2024,15020,Hung Cao,Republican,11268,75
+Virginia,51199,York,2024,39447,Hung Cao,Republican,20685,52.4
+Virginia,51510,Alexandria City,2024,79994,Timothy M Kaine,Democrat,62597,78.3
+Virginia,51520,Bristol City,2024,7332,Hung Cao,Republican,4699,64.1
+Virginia,51530,Buena Vista City,2024,2819,Hung Cao,Republican,1881,66.7
+Virginia,51540,Charlottesville City,2024,23147,Timothy M Kaine,Democrat,19439,84
+Virginia,51550,Chesapeake City,2024,127030,Timothy M Kaine,Democrat,67224,52.9
+Virginia,51570,Colonial Heights City,2024,8720,Hung Cao,Republican,5456,62.6
+Virginia,51580,Covington City,2024,2443,Hung Cao,Republican,1418,58
+Virginia,51590,Danville City,2024,17354,Timothy M Kaine,Democrat,10986,63.3
+Virginia,51595,Emporia City,2024,2090,Timothy M Kaine,Democrat,1415,67.7
+Virginia,51600,Fairfax City,2024,13342,Timothy M Kaine,Democrat,8882,66.6
+Virginia,51610,Falls Church City,2024,8974,Timothy M Kaine,Democrat,7163,79.8
+Virginia,51620,Franklin City,2024,3732,Timothy M Kaine,Democrat,2367,63.4
+Virginia,51630,Fredericksburg City,2024,13236,Timothy M Kaine,Democrat,8858,66.9
+Virginia,51640,Galax City,2024,2686,Hung Cao,Republican,1788,66.6
+Virginia,51650,Hampton City,2024,61895,Timothy M Kaine,Democrat,44201,71.4
+Virginia,51660,Harrisonburg City,2024,16899,Timothy M Kaine,Democrat,10922,64.6
+Virginia,51670,Hopewell City,2024,8627,Timothy M Kaine,Democrat,5173,60
+Virginia,51678,Lexington City,2024,2852,Timothy M Kaine,Democrat,1817,63.7
+Virginia,51680,Lynchburg City,2024,36573,Hung Cao,Republican,19478,53.3
+Virginia,51683,Manassas City,2024,15849,Timothy M Kaine,Democrat,9375,59.2
+Virginia,51685,Manassas Park City,2024,5853,Timothy M Kaine,Democrat,3713,63.4
+Virginia,51690,Martinsville City,2024,5466,Timothy M Kaine,Democrat,3515,64.3
+Virginia,51700,Newport News City,2024,74913,Timothy M Kaine,Democrat,49499,66.1
+Virginia,51710,Norfolk City,2024,85131,Timothy M Kaine,Democrat,61334,72
+Virginia,51720,Norton City,2024,1581,Hung Cao,Republican,973,61.5
+Virginia,51730,Petersburg City,2024,12859,Timothy M Kaine,Democrat,11254,87.5
+Virginia,51735,Poquoson City,2024,8012,Hung Cao,Republican,5729,71.5
+Virginia,51740,Portsmouth City,2024,40402,Timothy M Kaine,Democrat,28791,71.3
+Virginia,51750,Radford City,2024,6490,Timothy M Kaine,Democrat,3423,52.7
+Virginia,51760,Richmond City,2024,107314,Timothy M Kaine,Democrat,89672,83.6
+Virginia,51770,Roanoke City,2024,41840,Timothy M Kaine,Democrat,26676,63.8
+Virginia,51775,Salem City,2024,13022,Hung Cao,Republican,7352,56.5
+Virginia,51790,Staunton City,2024,13396,Timothy M Kaine,Democrat,7820,58.4
+Virginia,51800,Suffolk City,2024,52923,Timothy M Kaine,Democrat,31587,59.7
+Virginia,51810,Virginia Beach City,2024,225634,Timothy M Kaine,Democrat,118920,52.7
+Virginia,51820,Waynesboro City,2024,11135,Hung Cao,Republican,5598,50.3
+Virginia,51830,Williamsburg City,2024,7796,Timothy M Kaine,Democrat,5635,72.3
+Virginia,51840,Winchester City,2024,11732,Timothy M Kaine,Democrat,6804,58
+West Virginia,54001,Barbour,2024,6305,Jim Justice,Republican,4963,78.7
+West Virginia,54003,Berkeley,2024,54895,Jim Justice,Republican,35870,65.3
+West Virginia,54005,Boone,2024,7988,Jim Justice,Republican,5965,74.7
+West Virginia,54007,Braxton,2024,5232,Jim Justice,Republican,3812,72.9
+West Virginia,54009,Brooke,2024,9682,Jim Justice,Republican,6857,70.8
+West Virginia,54011,Cabell,2024,34710,Jim Justice,Republican,21486,61.9
+West Virginia,54013,Calhoun,2024,2854,Jim Justice,Republican,2293,80.3
+West Virginia,54015,Clay,2024,3173,Jim Justice,Republican,2479,78.1
+West Virginia,54017,Doddridge,2024,2903,Jim Justice,Republican,2374,81.8
+West Virginia,54019,Fayette,2024,15216,Jim Justice,Republican,10147,66.7
+West Virginia,54021,Gilmer,2024,2311,Jim Justice,Republican,1763,76.3
+West Virginia,54023,Grant,2024,5393,Jim Justice,Republican,4647,86.2
+West Virginia,54025,Greenbrier,2024,14712,Jim Justice,Republican,9676,65.8
+West Virginia,54027,Hampshire,2024,10238,Jim Justice,Republican,8120,79.3
+West Virginia,54029,Hancock,2024,12858,Jim Justice,Republican,9334,72.6
+West Virginia,54031,Hardy,2024,6307,Jim Justice,Republican,4798,76.1
+West Virginia,54033,Harrison,2024,29049,Jim Justice,Republican,20396,70.2
+West Virginia,54035,Jackson,2024,12627,Jim Justice,Republican,9492,75.2
+West Virginia,54037,Jefferson,2024,28658,Jim Justice,Republican,16509,57.6
+West Virginia,54039,Kanawha,2024,73629,Jim Justice,Republican,42331,57.5
+West Virginia,54041,Lewis,2024,7004,Jim Justice,Republican,5467,78.1
+West Virginia,54043,Lincoln,2024,7043,Jim Justice,Republican,5555,78.9
+West Virginia,54045,Logan,2024,11036,Jim Justice,Republican,8916,80.8
+West Virginia,54047,Mcdowell,2024,5155,Jim Justice,Republican,4121,79.9
+West Virginia,54049,Marion,2024,24314,Jim Justice,Republican,15406,63.4
+West Virginia,54051,Marshall,2024,13154,Jim Justice,Republican,8902,67.7
+West Virginia,54053,Mason,2024,10402,Jim Justice,Republican,7890,75.9
+West Virginia,54055,Mercer,2024,23079,Jim Justice,Republican,18120,78.5
+West Virginia,54057,Mineral,2024,12749,Jim Justice,Republican,10157,79.7
+West Virginia,54059,Mingo,2024,8195,Jim Justice,Republican,6940,84.7
+West Virginia,54061,Monongalia,2024,40926,Jim Justice,Republican,20874,51
+West Virginia,54063,Monroe,2024,6238,Jim Justice,Republican,4804,77
+West Virginia,54065,Morgan,2024,8825,Jim Justice,Republican,6662,75.5
+West Virginia,54067,Nicholas,2024,9864,Jim Justice,Republican,7538,76.4
+West Virginia,54069,Ohio,2024,18624,Jim Justice,Republican,10750,57.7
+West Virginia,54071,Pendleton,2024,3353,Jim Justice,Republican,2658,79.3
+West Virginia,54073,Pleasants,2024,3304,Jim Justice,Republican,2569,77.8
+West Virginia,54075,Pocahontas,2024,3804,Jim Justice,Republican,2649,69.6
+West Virginia,54077,Preston,2024,14152,Jim Justice,Republican,9988,70.6
+West Virginia,54079,Putnam,2024,26955,Jim Justice,Republican,19184,71.2
+West Virginia,54081,Raleigh,2024,29991,Jim Justice,Republican,21796,72.7
+West Virginia,54083,Randolph,2024,11420,Jim Justice,Republican,8107,71
+West Virginia,54085,Ritchie,2024,3944,Jim Justice,Republican,3278,83.1
+West Virginia,54087,Roane,2024,5441,Jim Justice,Republican,4100,75.4
+West Virginia,54089,Summers,2024,5135,Jim Justice,Republican,3708,72.2
+West Virginia,54091,Taylor,2024,7199,Jim Justice,Republican,5344,74.2
+West Virginia,54093,Tucker,2024,3611,Jim Justice,Republican,2544,70.5
+West Virginia,54095,Tyler,2024,3553,Jim Justice,Republican,2795,78.7
+West Virginia,54097,Upshur,2024,9690,Jim Justice,Republican,7437,76.7
+West Virginia,54099,Wayne,2024,15243,Jim Justice,Republican,11416,74.9
+West Virginia,54101,Webster,2024,2941,Jim Justice,Republican,2331,79.3
+West Virginia,54103,Wetzel,2024,6077,Jim Justice,Republican,4469,73.5
+West Virginia,54105,Wirt,2024,2520,Jim Justice,Republican,2001,79.4
+West Virginia,54107,Wood,2024,36643,Jim Justice,Republican,26084,71.2
+West Virginia,54109,Wyoming,2024,7378,Jim Justice,Republican,6207,84.1
