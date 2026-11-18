@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Elections 2026",
+    "title": "Southern States US Senate Results by County",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This interactive map displays county-level results for the most recent US Senate general election across the Southern states. Hover over or click any county to view the candidate, winning party, vote counts, and percentage."
   },
   {
     "objectID": "about.html",
